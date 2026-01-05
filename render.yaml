@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: valuebot
+    env: python
+    buildCommand: pip install -r requirements_render.txt
+    startCommand: python bot_render.py
+    envVars:
+      - key: DISCORD_TOKEN
+        sync: false  # Set manually in Render dashboard
+      - key: OUTPUT_MODE
+        value: embed
+      - key: PYTHON_VERSION
+        value: 3.11.0
