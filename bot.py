@@ -47,19 +47,24 @@ def load_item_data():
     
     item_values = {}
     emoji_map = {}
+    display_names = {}  # Maps alias -> proper display name
     
     for item_id, item_data in data['items'].items():
         value = item_data['value']
         emoji = item_data['emoji']
         names = item_data['names']
         
+        # Convert item_id to display name (e.g., "all_seeing_eye" -> "All Seeing Eye")
+        display_name = item_id.replace('_', ' ').title()
+        
         for name in names:
             item_values[name.lower()] = value
             emoji_map[name.lower()] = emoji
+            display_names[name.lower()] = display_name
     
-    return item_values, emoji_map
+    return item_values, emoji_map, display_names
 
-ITEM_VALUES, EMOJI_MAP = load_item_data()
+ITEM_VALUES, EMOJI_MAP, DISPLAY_NAMES = load_item_data()
 
 # ==================== DISCORD BOT SETUP ====================
 intents = discord.Intents.default()
@@ -94,6 +99,11 @@ def get_item_value(item_name):
     item_name = item_name.lower().strip()
     return ITEM_VALUES.get(item_name)
 
+def get_display_name(item_name):
+    """Get the proper display name for an item."""
+    item_name_lower = item_name.lower().strip()
+    return DISPLAY_NAMES.get(item_name_lower, item_name.title())
+
 def get_item_emoji_path(item_name):
     item_name_lower = item_name.lower().strip()
     emoji_name = EMOJI_MAP.get(item_name_lower, item_name_lower)
@@ -119,7 +129,9 @@ def get_item_emoji(item_name, guild_emojis):
         if emoji.name.lower() == emoji_name.lower():
             return str(emoji)
     
-    return f"**{item_name.title()}**"
+    # Return the proper display name as fallback
+    display_name = get_display_name(item_name)
+    return f"**{display_name}**"
 
 def get_risk_emoji(risk_level):
     if risk_level == "Low":
@@ -513,8 +525,8 @@ async def on_message(message):
             embed.add_field(name="\u200b", value=risk_display, inline=False)
             
             embed.add_field(
-                name="📋 Result",
-                value=f"**{result_text}**",
+                name=f"**{result_text}**",
+                value="",
                 inline=False
             )
             
