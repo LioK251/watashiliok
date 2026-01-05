@@ -6,15 +6,40 @@ import json
 from datetime import datetime
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import io
+from flask import Flask
+from threading import Thread
 
-TOKEN = "MTQ1NzgwMDA5OTAyMjI0NjA3MQ.Gn74sD.memSYHYDRRHRvwd_D-_Q2p2zlgd2zB8D1mMluQ"
+# ==================== FLASK SERVER FOR UPTIMEROBOT ====================
+app = Flask('')
+
+@app.route('/')
+def home():
+    return "Bot is alive!"
+
+@app.route('/health')
+def health():
+    return "OK", 200
+
+def run_server():
+    port = int(os.environ.get('PORT', 8080))
+    app.run(host='0.0.0.0', port=port)
+
+def keep_alive():
+    t = Thread(target=run_server)
+    t.daemon = True
+    t.start()
+
+# ==================== BOT CONFIGURATION ====================
+# Use environment variable for token (NEVER hardcode in production!)
+TOKEN = os.environ.get('DISCORD_TOKEN', '')
 PREFIX = ""
 
-OUTPUT_MODE = "embed"  # Change to "embed" for embed output
+OUTPUT_MODE = os.environ.get('OUTPUT_MODE', 'embed')  # "image" or "embed"
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 EMOJI_DIR = os.path.join(SCRIPT_DIR, "Emojis")
 
+# ==================== ITEM DATA ====================
 def load_item_data():
     json_path = os.path.join(SCRIPT_DIR, "item_data.json")
     with open(json_path, 'r', encoding='utf-8-sig') as f:
@@ -36,6 +61,7 @@ def load_item_data():
 
 ITEM_VALUES, EMOJI_MAP = load_item_data()
 
+# ==================== DISCORD BOT SETUP ====================
 intents = discord.Intents.default()
 intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
@@ -105,11 +131,11 @@ def get_risk_emoji(risk_level):
 
 def calculate_inventory_risk(total_value):
     if total_value < 5000:
-        return "Low", (76, 175, 80)  # Green
+        return "Low", (76, 175, 80)
     elif total_value < 20000:
-        return "Medium", (255, 193, 7)  # Yellow
+        return "Medium", (255, 193, 7)
     else:
-        return "High", (244, 67, 54)  # Red
+        return "High", (244, 67, 54)
 
 def calculate_trade_risk(your_total, their_total):
     if your_total == 0 or their_total == 0:
@@ -322,6 +348,7 @@ async def list_items(ctx):
 async def on_ready():
     print(f'{bot.user} has connected to Discord!')
     print(f'Bot is in {len(bot.guilds)} guilds')
+    print(f'Output mode: {OUTPUT_MODE}')
 
 @bot.event
 async def on_message(message):
@@ -503,5 +530,14 @@ async def on_message(message):
         
     await bot.process_commands(message)
 
+# ==================== MAIN ====================
 if __name__ == "__main__":
+    if not TOKEN:
+        print("ERROR: DISCORD_TOKEN environment variable not set!")
+        exit(1)
+    
+    # Start the Flask server for UptimeRobot
+    keep_alive()
+    
+    # Run the bot
     bot.run(TOKEN)
