@@ -97,6 +97,9 @@ intents = discord.Intents.default()
 intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
+# Allowed channel IDs
+ALLOWED_CHANNELS = ["1458157088181325944", "1458157141247528980", "1458157186617446595"]
+
 def parse_items(item_string):
     items = []
     parts = [p.strip() for p in item_string.split(",")]
@@ -508,6 +511,11 @@ async def on_ready():
 @bot.event
 async def on_message(message):
     if message.author == bot.user:
+        return
+    
+    # Only respond in allowed channels
+    if str(message.channel.id) not in ALLOWED_CHANNELS:
+        await bot.process_commands(message)
         return
     
     content = message.content.strip()
