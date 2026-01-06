@@ -1,0 +1,1290 @@
+{
+    "id": "1457800099022246071",
+    "emojis": [
+        {
+            "id": "1458136033240551614",
+            "name": "ace",
+            "animated": false
+        },
+        {
+            "id": "1458136035296018660",
+            "name": "add",
+            "animated": false
+        },
+        {
+            "id": "1458136038164922403",
+            "name": "allfruits",
+            "animated": false
+        },
+        {
+            "id": "1458136039964147843",
+            "name": "allmythics",
+            "animated": false
+        },
+        {
+            "id": "1458136041805316142",
+            "name": "AllSeeingBaal",
+            "animated": false
+        },
+        {
+            "id": "1458136043785158719",
+            "name": "AllSeeingEye",
+            "animated": false
+        },
+        {
+            "id": "1458136046825898047",
+            "name": "annilantern",
+            "animated": false
+        },
+        {
+            "id": "1458136057475502341",
+            "name": "anomalizedMega_pow",
+            "animated": false
+        },
+        {
+            "id": "1458136059551551539",
+            "name": "armor",
+            "animated": false
+        },
+        {
+            "id": "1458136062022127827",
+            "name": "Azure",
+            "animated": false
+        },
+        {
+            "id": "1458136064307892430",
+            "name": "AzusaGiggle",
+            "animated": true
+        },
+        {
+            "id": "1458136066547646629",
+            "name": "AzusaGiggle1",
+            "animated": true
+        },
+        {
+            "id": "1458136068820963489",
+            "name": "baalcape",
+            "animated": false
+        },
+        {
+            "id": "1458136071396266178",
+            "name": "baalhead",
+            "animated": false
+        },
+        {
+            "id": "1458136073547813008",
+            "name": "batswarm",
+            "animated": false
+        },
+        {
+            "id": "1458136075557146827",
+            "name": "bel",
+            "animated": false
+        },
+        {
+            "id": "1458136077977256049",
+            "name": "BigMom",
+            "animated": false
+        },
+        {
+            "id": "1458136079566901523",
+            "name": "bisento",
+            "animated": false
+        },
+        {
+            "id": "1458136081617653841",
+            "name": "black_bull_outfit",
+            "animated": false
+        },
+        {
+            "id": "1458136083228528832",
+            "name": "black_valk",
+            "animated": false
+        },
+        {
+            "id": "1458136085002719283",
+            "name": "Blade",
+            "animated": false
+        },
+        {
+            "id": "1458136089146425629",
+            "name": "Blessed",
+            "animated": false
+        },
+        {
+            "id": "1458136092632027166",
+            "name": "blo_ase",
+            "animated": false
+        },
+        {
+            "id": "1458136095182033042",
+            "name": "blo_hammer_crimson",
+            "animated": false
+        },
+        {
+            "id": "1458136097224790036",
+            "name": "bloodscythe",
+            "animated": false
+        },
+        {
+            "id": "1458136099305029826",
+            "name": "Blossom_Skirt",
+            "animated": false
+        },
+        {
+            "id": "1458136101297586397",
+            "name": "Blue",
+            "animated": false
+        },
+        {
+            "id": "1458136103356989533",
+            "name": "blue_valk",
+            "animated": false
+        },
+        {
+            "id": "1458136105386774559",
+            "name": "Boneshiver",
+            "animated": false
+        },
+        {
+            "id": "1458136107211292713",
+            "name": "BorjGauntlet",
+            "animated": false
+        },
+        {
+            "id": "1458136109308448870",
+            "name": "bothcores",
+            "animated": false
+        },
+        {
+            "id": "1458136111644934451",
+            "name": "BourjArmor",
+            "animated": false
+        },
+        {
+            "id": "1458136114153127977",
+            "name": "bow",
+            "animated": false
+        },
+        {
+            "id": "1458136115721535635",
+            "name": "Buddha",
+            "animated": false
+        },
+        {
+            "id": "1458136118032859270",
+            "name": "bunnyhood",
+            "animated": false
+        },
+        {
+            "id": "1458136120377344143",
+            "name": "bunyo",
+            "animated": false
+        },
+        {
+            "id": "1458136122415648850",
+            "name": "Candy_Cane_outfit",
+            "animated": false
+        },
+        {
+            "id": "1458136124227584083",
+            "name": "cape",
+            "animated": false
+        },
+        {
+            "id": "1458136125884596416",
+            "name": "cc",
+            "animated": false
+        },
+        {
+            "id": "1458136128019370106",
+            "name": "Chibigeto",
+            "animated": true
+        },
+        {
+            "id": "1458136130225438872",
+            "name": "Chibigeto1",
+            "animated": true
+        },
+        {
+            "id": "1458136132041707741",
+            "name": "Chroma_AllSeeingEye",
+            "animated": false
+        },
+        {
+            "id": "1458136133765566464",
+            "name": "CircleHoodie",
+            "animated": false
+        },
+        {
+            "id": "1458136135640420557",
+            "name": "clown_wig",
+            "animated": false
+        },
+        {
+            "id": "1458136138274443366",
+            "name": "CoffinBoat",
+            "animated": false
+        },
+        {
+            "id": "1458136140476321834",
+            "name": "coyotefit",
+            "animated": false
+        },
+        {
+            "id": "1458136143773175880",
+            "name": "CrabCrown",
+            "animated": false
+        },
+        {
+            "id": "1458136146981945364",
+            "name": "crabcutlass",
+            "animated": false
+        },
+        {
+            "id": "1458136149125234835",
+            "name": "croccape",
+            "animated": false
+        },
+        {
+            "id": "1458136151541158082",
+            "name": "cupid",
+            "animated": false
+        },
+        {
+            "id": "1458136154661720126",
+            "name": "cupidbattleaxe",
+            "animated": false
+        },
+        {
+            "id": "1458136156536443030",
+            "name": "cupidheadband",
+            "animated": false
+        },
+        {
+            "id": "1458136158608424960",
+            "name": "cupidwand",
+            "animated": false
+        },
+        {
+            "id": "1458136160378294463",
+            "name": "darkblade",
+            "animated": false
+        },
+        {
+            "id": "1458136162307801169",
+            "name": "darkroot",
+            "animated": false
+        },
+        {
+            "id": "1458136164430118962",
+            "name": "deathball",
+            "animated": false
+        },
+        {
+            "id": "1458136166728470579",
+            "name": "Demon_Slayer_outfit",
+            "animated": false
+        },
+        {
+            "id": "1458136168708309032",
+            "name": "dfjournal",
+            "animated": false
+        },
+        {
+            "id": "1458136170629431490",
+            "name": "Dominus_Empyreus",
+            "animated": false
+        },
+        {
+            "id": "1458136172453822666",
+            "name": "Donmingo",
+            "animated": false
+        },
+        {
+            "id": "1458136174534201581",
+            "name": "Dragon",
+            "animated": false
+        },
+        {
+            "id": "1458136177633661074",
+            "name": "Drippy_Santa_outfit",
+            "animated": false
+        },
+        {
+            "id": "1458136179755978961",
+            "name": "drippyfitv2",
+            "animated": false
+        },
+        {
+            "id": "1458136182033481850",
+            "name": "drums",
+            "animated": false
+        },
+        {
+            "id": "1458136187708641350",
+            "name": "eloegg",
+            "animated": false
+        },
+        {
+            "id": "1458136190396923994",
+            "name": "elohammer",
+            "animated": false
+        },
+        {
+            "id": "1458136192313983067",
+            "name": "Emerald_valk",
+            "animated": false
+        },
+        {
+            "id": "1458136194092367914",
+            "name": "Endbringer",
+            "animated": false
+        },
+        {
+            "id": "1458136196097118240",
+            "name": "epic_banana",
+            "animated": false
+        },
+        {
+            "id": "1458136198014046381",
+            "name": "Exalted",
+            "animated": false
+        },
+        {
+            "id": "1458136200048148701",
+            "name": "FestivalLance",
+            "animated": false
+        },
+        {
+            "id": "1458136202447290531",
+            "name": "festivalshield",
+            "animated": false
+        },
+        {
+            "id": "1458136204808814602",
+            "name": "fireworkdaggers",
+            "animated": false
+        },
+        {
+            "id": "1458136207513878540",
+            "name": "fireworklauncher",
+            "animated": false
+        },
+        {
+            "id": "1458136210676519151",
+            "name": "Fishbait",
+            "animated": false
+        },
+        {
+            "id": "1458136213054820467",
+            "name": "flamingoboat",
+            "animated": false
+        },
+        {
+            "id": "1458136215407694038",
+            "name": "flower_sword",
+            "animated": false
+        },
+        {
+            "id": "1458136219044155609",
+            "name": "flowers",
+            "animated": false
+        },
+        {
+            "id": "1458136221451817125",
+            "name": "FOR",
+            "animated": false
+        },
+        {
+            "id": "1458136223104372808",
+            "name": "FruitFishingRod",
+            "animated": false
+        },
+        {
+            "id": "1458136224861782190",
+            "name": "Fwork_lancer",
+            "animated": false
+        },
+        {
+            "id": "1458136226677784628",
+            "name": "ghook",
+            "animated": false
+        },
+        {
+            "id": "1458136228833788130",
+            "name": "gold",
+            "animated": false
+        },
+        {
+            "id": "1458136232562262117",
+            "name": "golden",
+            "animated": false
+        },
+        {
+            "id": "1458136234470936680",
+            "name": "goldenpole",
+            "animated": false
+        },
+        {
+            "id": "1458136236513296587",
+            "name": "GoldenShades",
+            "animated": false
+        },
+        {
+            "id": "1458136238237159527",
+            "name": "goldhammer",
+            "animated": false
+        },
+        {
+            "id": "1458136239952629770",
+            "name": "Goro",
+            "animated": false
+        },
+        {
+            "id": "1458136241668227320",
+            "name": "gravityblade",
+            "animated": false
+        },
+        {
+            "id": "1458136244390334606",
+            "name": "Green",
+            "animated": false
+        },
+        {
+            "id": "1458136246453932147",
+            "name": "Grinch_hat",
+            "animated": false
+        },
+        {
+            "id": "1458136248831967324",
+            "name": "Grinch_outfit",
+            "animated": false
+        },
+        {
+            "id": "1458136250711281696",
+            "name": "Gura",
+            "animated": false
+        },
+        {
+            "id": "1458136252569223374",
+            "name": "halfshroud",
+            "animated": false
+        },
+        {
+            "id": "1458136254762975289",
+            "name": "Happy_elf_oitfit",
+            "animated": false
+        },
+        {
+            "id": "1458136256813862933",
+            "name": "hat",
+            "animated": false
+        },
+        {
+            "id": "1458136260190146782",
+            "name": "HawkEye",
+            "animated": false
+        },
+        {
+            "id": "1458136262279041199",
+            "name": "helmet",
+            "animated": false
+        },
+        {
+            "id": "1458136264254423192",
+            "name": "Heros_Cape",
+            "animated": false
+        },
+        {
+            "id": "1458136266276339815",
+            "name": "Hie",
+            "animated": false
+        },
+        {
+            "id": "1458136268176228382",
+            "name": "HollowFang",
+            "animated": false
+        },
+        {
+            "id": "1458136270051086420",
+            "name": "hollowgreatsword",
+            "animated": false
+        },
+        {
+            "id": "1458136271926071327",
+            "name": "hollowhallberd",
+            "animated": false
+        },
+        {
+            "id": "1458136275206017209",
+            "name": "hollowwender",
+            "animated": false
+        },
+        {
+            "id": "1458136277387051213",
+            "name": "hollyase",
+            "animated": false
+        },
+        {
+            "id": "1458136279484076218",
+            "name": "hover_pod",
+            "animated": false
+        },
+        {
+            "id": "1458136281329434635",
+            "name": "hoverboard",
+            "animated": false
+        },
+        {
+            "id": "1458136283263008886",
+            "name": "Howmany",
+            "animated": false
+        },
+        {
+            "id": "1458136284991062068",
+            "name": "ice_valk",
+            "animated": false
+        },
+        {
+            "id": "1458136287394402492",
+            "name": "iceborn_dagger",
+            "animated": false
+        },
+        {
+            "id": "1458136289101746349",
+            "name": "iceborn_gunblade",
+            "animated": false
+        },
+        {
+            "id": "1458136291094036574",
+            "name": "iceborn_rapier",
+            "animated": false
+        },
+        {
+            "id": "1458136293178609848",
+            "name": "icebornblade",
+            "animated": false
+        },
+        {
+            "id": "1458136295128956949",
+            "name": "IcebornCC",
+            "animated": false
+        },
+        {
+            "id": "1458136296789643366",
+            "name": "icebornkatana",
+            "animated": false
+        },
+        {
+            "id": "1458136299000172620",
+            "name": "isoh",
+            "animated": false
+        },
+        {
+            "id": "1458136300866633750",
+            "name": "itadori",
+            "animated": false
+        },
+        {
+            "id": "1458136303068516422",
+            "name": "Ito",
+            "animated": false
+        },
+        {
+            "id": "1458136305073393715",
+            "name": "jesterbox",
+            "animated": false
+        },
+        {
+            "id": "1458136307497963531",
+            "name": "jfit",
+            "animated": false
+        },
+        {
+            "id": "1458136309477540033",
+            "name": "jhat",
+            "animated": false
+        },
+        {
+            "id": "1458136311520039105",
+            "name": "jscythe",
+            "animated": false
+        },
+        {
+            "id": "1458136313541824654",
+            "name": "Jumpsuit",
+            "animated": false
+        },
+        {
+            "id": "1458136315680915538",
+            "name": "kage",
+            "animated": false
+        },
+        {
+            "id": "1458136317904027770",
+            "name": "karoo",
+            "animated": false
+        },
+        {
+            "id": "1458136320470946057",
+            "name": "Katakuri",
+            "animated": false
+        },
+        {
+            "id": "1458136322861564026",
+            "name": "katana",
+            "animated": false
+        },
+        {
+            "id": "1458136325587992669",
+            "name": "Kessui",
+            "animated": false
+        },
+        {
+            "id": "1458136328066564196",
+            "name": "kikoku",
+            "animated": false
+        },
+        {
+            "id": "1458136329975103538",
+            "name": "kira",
+            "animated": false
+        },
+        {
+            "id": "1458136332261130403",
+            "name": "kiribachi",
+            "animated": false
+        },
+        {
+            "id": "1458136334974844960",
+            "name": "Kizaru",
+            "animated": false
+        },
+        {
+            "id": "1458136337352888450",
+            "name": "kkcore",
+            "animated": false
+        },
+        {
+            "id": "1458136339642843136",
+            "name": "kumakawa_head",
+            "animated": false
+        },
+        {
+            "id": "1458136341572485336",
+            "name": "kurohit",
+            "animated": false
+        },
+        {
+            "id": "1458136343501869340",
+            "name": "kurukuru_seseren",
+            "animated": true
+        },
+        {
+            "id": "1458136346760581323",
+            "name": "law",
+            "animated": false
+        },
+        {
+            "id": "1458136348778037390",
+            "name": "LegChest",
+            "animated": false
+        },
+        {
+            "id": "1458136351630426203",
+            "name": "Legendary",
+            "animated": false
+        },
+        {
+            "id": "1458136353526120594",
+            "name": "lf",
+            "animated": false
+        },
+        {
+            "id": "1458136355878993940",
+            "name": "Lucy_fit",
+            "animated": false
+        },
+        {
+            "id": "1458136357682544903",
+            "name": "Magu",
+            "animated": false
+        },
+        {
+            "id": "1458136359817445590",
+            "name": "marinecape",
+            "animated": false
+        },
+        {
+            "id": "1458136361591771216",
+            "name": "max",
+            "animated": false
+        },
+        {
+            "id": "1458136363319689401",
+            "name": "maxlegfishbait",
+            "animated": false
+        },
+        {
+            "id": "1458136365110661120",
+            "name": "maxpeli",
+            "animated": false
+        },
+        {
+            "id": "1458136366880653332",
+            "name": "mega_pow",
+            "animated": false
+        },
+        {
+            "id": "1458136369435119626",
+            "name": "Megalodon_Armor",
+            "animated": false
+        },
+        {
+            "id": "1458136372186714132",
+            "name": "Megalodon_Helmet",
+            "animated": false
+        },
+        {
+            "id": "1458136374338261116",
+            "name": "Mera",
+            "animated": false
+        },
+        {
+            "id": "1458136377391845387",
+            "name": "Mighty_Cat",
+            "animated": false
+        },
+        {
+            "id": "1458136380537573437",
+            "name": "minibunny",
+            "animated": false
+        },
+        {
+            "id": "1458136382345183397",
+            "name": "Mochi",
+            "animated": false
+        },
+        {
+            "id": "1458136384073367593",
+            "name": "Moria",
+            "animated": false
+        },
+        {
+            "id": "1458136385960677552",
+            "name": "morianecklace",
+            "animated": false
+        },
+        {
+            "id": "1458136387588198573",
+            "name": "moriascissors",
+            "animated": false
+        },
+        {
+            "id": "1458136389655859404",
+            "name": "musashisfit",
+            "animated": false
+        },
+        {
+            "id": "1458136391887093872",
+            "name": "musashishat",
+            "animated": false
+        },
+        {
+            "id": "1458136394840146084",
+            "name": "mythicalchest",
+            "animated": false
+        },
+        {
+            "id": "1458136396853149931",
+            "name": "Napoleon",
+            "animated": false
+        },
+        {
+            "id": "1458136399290306813",
+            "name": "Necklace",
+            "animated": false
+        },
+        {
+            "id": "1458136401747906714",
+            "name": "newElfhat",
+            "animated": false
+        },
+        {
+            "id": "1458136404407091210",
+            "name": "nightfallshroud",
+            "animated": false
+        },
+        {
+            "id": "1458136407930572876",
+            "name": "NitroTransform",
+            "animated": true
+        },
+        {
+            "id": "1458136409725472843",
+            "name": "Nutcracker_Outfit",
+            "animated": false
+        },
+        {
+            "id": "1458136411671756820",
+            "name": "ODMrod",
+            "animated": false
+        },
+        {
+            "id": "1458136413647274068",
+            "name": "OG",
+            "animated": false
+        },
+        {
+            "id": "1458136415580717229",
+            "name": "opeope",
+            "animated": false
+        },
+        {
+            "id": "1458136417963216976",
+            "name": "outfit",
+            "animated": false
+        },
+        {
+            "id": "1458136419875950763",
+            "name": "paduropaduro",
+            "animated": true
+        },
+        {
+            "id": "1458136422203527311",
+            "name": "paimon",
+            "animated": true
+        },
+        {
+            "id": "1458136424288223252",
+            "name": "Paw",
+            "animated": false
+        },
+        {
+            "id": "1458136426209083446",
+            "name": "pbag",
+            "animated": false
+        },
+        {
+            "id": "1458136428163629227",
+            "name": "PCC",
+            "animated": false
+        },
+        {
+            "id": "1458136430638530711",
+            "name": "pfd",
+            "animated": false
+        },
+        {
+            "id": "1458136433297592352",
+            "name": "PFL",
+            "animated": false
+        },
+        {
+            "id": "1458136435516510228",
+            "name": "pfrl",
+            "animated": false
+        },
+        {
+            "id": "1458136437831766056",
+            "name": "Pica_armour",
+            "animated": false
+        },
+        {
+            "id": "1458136440688083108",
+            "name": "Pica_Helmet",
+            "animated": false
+        },
+        {
+            "id": "1458136443393409249",
+            "name": "Pika",
+            "animated": false
+        },
+        {
+            "id": "1458136445704470610",
+            "name": "PIRB",
+            "animated": false
+        },
+        {
+            "id": "1458136448199819314",
+            "name": "pitchfork",
+            "animated": false
+        },
+        {
+            "id": "1458136450569601024",
+            "name": "planetarydevastation",
+            "animated": false
+        },
+        {
+            "id": "1458136453140975626",
+            "name": "prestigewender",
+            "animated": false
+        },
+        {
+            "id": "1458136455363690526",
+            "name": "Ptero",
+            "animated": false
+        },
+        {
+            "id": "1458136457121239192",
+            "name": "purple",
+            "animated": false
+        },
+        {
+            "id": "1458136458937241784",
+            "name": "Raiui",
+            "animated": false
+        },
+        {
+            "id": "1458136462309462097",
+            "name": "RareChest",
+            "animated": false
+        },
+        {
+            "id": "1458136464775971038",
+            "name": "red",
+            "animated": false
+        },
+        {
+            "id": "1458136466818466019",
+            "name": "Ressurectedbaalshead",
+            "animated": false
+        },
+        {
+            "id": "1458136468903170104",
+            "name": "ResurrectedBaalfit",
+            "animated": false
+        },
+        {
+            "id": "1458136471461691393",
+            "name": "rocketblade",
+            "animated": false
+        },
+        {
+            "id": "1458136473202065418",
+            "name": "RockstarSoulKing",
+            "animated": false
+        },
+        {
+            "id": "1458136475181912217",
+            "name": "rocky_pet",
+            "animated": false
+        },
+        {
+            "id": "1458136477186920640",
+            "name": "Roger",
+            "animated": false
+        },
+        {
+            "id": "1458136478977753129",
+            "name": "Rumbling",
+            "animated": false
+        },
+        {
+            "id": "1458136480840024126",
+            "name": "ryumascarf",
+            "animated": false
+        },
+        {
+            "id": "1458136482861682839",
+            "name": "santahat",
+            "animated": false
+        },
+        {
+            "id": "1458136485512614073",
+            "name": "sbcore",
+            "animated": false
+        },
+        {
+            "id": "1458136487722877079",
+            "name": "scarf",
+            "animated": false
+        },
+        {
+            "id": "1458136489841000640",
+            "name": "shades",
+            "animated": false
+        },
+        {
+            "id": "1458136492445663414",
+            "name": "Shusui",
+            "animated": false
+        },
+        {
+            "id": "1458136494748336354",
+            "name": "smoke",
+            "animated": false
+        },
+        {
+            "id": "1458136496690430104",
+            "name": "Snoozy_Neko",
+            "animated": false
+        },
+        {
+            "id": "1458136498649170061",
+            "name": "snowcap_scepter",
+            "animated": false
+        },
+        {
+            "id": "1458136500804915280",
+            "name": "Soul",
+            "animated": false
+        },
+        {
+            "id": "1458136509264826502",
+            "name": "SoulCane",
+            "animated": false
+        },
+        {
+            "id": "1458136511584141463",
+            "name": "soulking",
+            "animated": false
+        },
+        {
+            "id": "1458136514100723863",
+            "name": "soulkingguitar",
+            "animated": false
+        },
+        {
+            "id": "1458136516252668077",
+            "name": "soulkingscarf",
+            "animated": false
+        },
+        {
+            "id": "1458136518089510922",
+            "name": "soulkingviolin",
+            "animated": false
+        },
+        {
+            "id": "1458136520174211176",
+            "name": "SpareFruitBag",
+            "animated": false
+        },
+        {
+            "id": "1458136522170695690",
+            "name": "sparkle_valk",
+            "animated": false
+        },
+        {
+            "id": "1458136524070850601",
+            "name": "SpecialTailorToken",
+            "animated": false
+        },
+        {
+            "id": "1458136525735989504",
+            "name": "spiritcolor",
+            "animated": false
+        },
+        {
+            "id": "1458136527648456879",
+            "name": "SPReset",
+            "animated": false
+        },
+        {
+            "id": "1458136530089676882",
+            "name": "SquareSquidgame",
+            "animated": false
+        },
+        {
+            "id": "1458136533314965715",
+            "name": "Starkguns",
+            "animated": false
+        },
+        {
+            "id": "1458136535852384296",
+            "name": "Striker",
+            "animated": false
+        },
+        {
+            "id": "1458136537924636754",
+            "name": "Suna",
+            "animated": false
+        },
+        {
+            "id": "1458136539996618936",
+            "name": "sunken",
+            "animated": false
+        },
+        {
+            "id": "1458136541950906399",
+            "name": "sunkenanchor",
+            "animated": false
+        },
+        {
+            "id": "1458136544341921954",
+            "name": "supremegiftboxarmor",
+            "animated": false
+        },
+        {
+            "id": "1458136546258452574",
+            "name": "supremegiftboxhelmet",
+            "animated": false
+        },
+        {
+            "id": "1458136548703998105",
+            "name": "susano",
+            "animated": false
+        },
+        {
+            "id": "1458136550394036274",
+            "name": "swordfishrapier",
+            "animated": false
+        },
+        {
+            "id": "1458136552373747712",
+            "name": "Tentails",
+            "animated": false
+        },
+        {
+            "id": "1458136554928083120",
+            "name": "thrilledship",
+            "animated": false
+        },
+        {
+            "id": "1458136557801312276",
+            "name": "ThunderHaori",
+            "animated": false
+        },
+        {
+            "id": "1458136559969898547",
+            "name": "TimeRift_Capsule",
+            "animated": false
+        },
+        {
+            "id": "1458136562880483563",
+            "name": "TitanShifterAura",
+            "animated": false
+        },
+        {
+            "id": "1458136565128630324",
+            "name": "TojiOutfit",
+            "animated": false
+        },
+        {
+            "id": "1458136567427239956",
+            "name": "Tori",
+            "animated": false
+        },
+        {
+            "id": "1458136569742626948",
+            "name": "TriangleSquidgame",
+            "animated": false
+        },
+        {
+            "id": "1458136571705299039",
+            "name": "triden",
+            "animated": false
+        },
+        {
+            "id": "1458136574192648203",
+            "name": "Trident",
+            "animated": false
+        },
+        {
+            "id": "1458136576331612355",
+            "name": "troll_face",
+            "animated": false
+        },
+        {
+            "id": "1458136578407923774",
+            "name": "Truebaalsguard",
+            "animated": false
+        },
+        {
+            "id": "1458136580563800196",
+            "name": "Truebaalshead",
+            "animated": false
+        },
+        {
+            "id": "1458136586968633386",
+            "name": "unobs",
+            "animated": false
+        },
+        {
+            "id": "1458136589195542649",
+            "name": "usamii_head",
+            "animated": false
+        },
+        {
+            "id": "1458136591016001629",
+            "name": "venom",
+            "animated": false
+        },
+        {
+            "id": "1458136592723214336",
+            "name": "Veraswhip",
+            "animated": false
+        },
+        {
+            "id": "1458136595227082773",
+            "name": "violet_valk",
+            "animated": false
+        },
+        {
+            "id": "1458136597458452531",
+            "name": "Vraels_pipe",
+            "animated": false
+        },
+        {
+            "id": "1458136599912255742",
+            "name": "wings",
+            "animated": false
+        },
+        {
+            "id": "1458136601669538020",
+            "name": "wonderballoons",
+            "animated": false
+        },
+        {
+            "id": "1458136604660076748",
+            "name": "worldender",
+            "animated": false
+        },
+        {
+            "id": "1458136606581063754",
+            "name": "x5legchests",
+            "animated": false
+        },
+        {
+            "id": "1458136608669958214",
+            "name": "x5rarechests",
+            "animated": false
+        },
+        {
+            "id": "1458136610485960896",
+            "name": "yami",
+            "animated": false
+        },
+        {
+            "id": "1458136612771860735",
+            "name": "yuki",
+            "animated": false
+        },
+        {
+            "id": "1458136615028265082",
+            "name": "yukiothebunny",
+            "animated": false
+        },
+        {
+            "id": "1458136616605450355",
+            "name": "zhencape",
+            "animated": false
+        },
+        {
+            "id": "1458136618883092620",
+            "name": "zoranas_haori",
+            "animated": false
+        },
+        {
+            "id": "1458136620975788188",
+            "name": "zoranas_robe",
+            "animated": false
+        },
+        {
+            "id": "1458136623027064842",
+            "name": "Zushi",
+            "animated": false
+        }
+    ]
+}
