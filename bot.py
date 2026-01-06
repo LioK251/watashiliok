@@ -39,6 +39,26 @@ OUTPUT_MODE = os.environ.get('OUTPUT_MODE', 'embed')  # "image" or "embed"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 EMOJI_DIR = os.path.join(SCRIPT_DIR, "Emojis")
 
+# ==================== EMOJI DATA ====================
+def load_emoji_data():
+    """Load emoji IDs from emojis_list.json"""
+    emoji_path = os.path.join(SCRIPT_DIR, "emojis_list.json")
+    emoji_ids = {}
+    
+    if os.path.exists(emoji_path):
+        with open(emoji_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        for emoji in data.get('emojis', []):
+            name = emoji['name'].lower()
+            emoji_id = emoji['id']
+            animated = emoji.get('animated', False)
+            emoji_ids[name] = {'id': emoji_id, 'name': emoji['name'], 'animated': animated}
+    
+    return emoji_ids
+
+EMOJI_IDS = load_emoji_data()
+
 # ==================== ITEM DATA ====================
 def load_item_data():
     json_path = os.path.join(SCRIPT_DIR, "item_data.json")
@@ -121,18 +141,30 @@ def get_item_emoji_path(item_name):
     
     return None
 
-def get_item_emoji(item_name, guild_emojis):
+def get_item_emoji(item_name, guild_emojis=None):
+    """Get emoji string for an item using emoji IDs from emojis_list.json"""
     item_name_lower = item_name.lower().strip()
     emoji_name = EMOJI_MAP.get(item_name_lower, item_name_lower)
     
-    for emoji in guild_emojis:
-        if emoji.name.lower() == emoji_name.lower():
-            return str(emoji)
+    # First, try to get emoji from our emoji ID list (works across servers)
+    emoji_name_lower = emoji_name.lower()
+    if emoji_name_lower in EMOJI_IDS:
+        emoji_data = EMOJI_IDS[emoji_name_lower]
+        prefix = "a" if emoji_data['animated'] else ""
+        return f"<{prefix}:{emoji_data['name']}:{emoji_data['id']}>"
     
+    # Fallback: search in guild emojis
+    if guild_emojis:
+        for emoji in guild_emojis:
+            if emoji.name.lower() == emoji_name_lower:
+                return str(emoji)
+    
+    # Fallback: search in all bot's servers
     for emoji in bot.emojis:
-        if emoji.name.lower() == emoji_name.lower():
+        if emoji.name.lower() == emoji_name_lower:
             return str(emoji)
     
+    # Final fallback: return display name in bold
     display_name = get_display_name(item_name)
     return f"**{display_name}**"
 
