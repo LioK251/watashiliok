@@ -1,4 +1,4 @@
-﻿{
+{
     "items": {
         "ito": {"value": 80, "names": ["ito"], "emoji": "Ito"},
         "paw": {"value": 200, "names": ["paw"], "emoji": "Paw"},
@@ -114,7 +114,7 @@
         "jester_box": {"value": 600, "names": ["jester box", "jesterbox", "jbox", "box"], "emoji": "jesterbox"},
         "jester_hat": {"value": 500, "names": ["jester hat", "jesterhat", "jhat"], "emoji": "jhat"},
         "jester_scythe": {"value": 600, "names": ["jesters scythe", "jestersscythe", "jester scythe", "jesterscythe", "jscythe"], "emoji": "jscythe"},
-        "jester_outfit": {"value": 65000, "names": ["jesters outfit", "jestersoutfit", "jester outfit", "jesteroutfit", "jester fit", "jesterfit", "jester"], "emoji": "jfit"},
+        "jester_outfit": {"value": 65000, "names": ["jesters outfit", "jestersoutfit", "jester outfit", "jesteroutfit", "jester fit", "jesterfit", "jfit", "jester"], "emoji": "jfit"},
         "hollow_gs": {"value": 75, "names": ["hollow gs", "hollowgs", "hgs", "hollow great sword", "hollowgreatsword", "hollow sword", "hollowsword"], "emoji": "hollowgreatsword"},
         "hollow_halberd": {"value": 150, "names": ["hollow halberd", "hollowhalberd", "hhalb", "hollowhalb", "halberd"], "emoji": "hollowhallberd"},
         "resurrected_baal_head": {"value": 1000, "names": ["resurrected baal head", "resurrectedbaalhead", "res baal head", "resbaalhead", "rbhead", "res head", "reshead"], "emoji": "Ressurectedbaalshead"},
