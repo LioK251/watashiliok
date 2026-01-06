@@ -399,55 +399,61 @@ async def list_items(ctx):
 
 @bot.command(name='appemojis')
 async def app_emojis(ctx):
-    """Fetch and display App Emojis from the bot's application"""
+    """List all application emojis (App Emojis from Developer Portal)"""
     if ctx.author.id != 437943086048608266:
         return
     
+    # Get application emojis via API
     try:
-        app_id = bot.application_id or bot.user.id
+        app_info = await bot.application_info()
+        app_id = app_info.id
         
-        # Fetch app emojis via HTTP request
-        data = await bot.http.request(
-            discord.http.Route('GET', '/applications/{application_id}/emojis', application_id=app_id)
+        # Fetch app emojis using Discord API
+        emojis = await bot.http.request(
+            discord.http.Route('GET', '/applications/{app_id}/emojis', app_id=app_id)
         )
         
-        emojis = data.get('items', [])
-        
-        if not emojis:
-            await ctx.send("❌ No App Emojis found. Upload emojis in Developer Portal!")
+        if not emojis.get('items'):
+            await ctx.send("No App Emojis found. Upload them in Discord Developer Portal → Your App → Emojis")
             return
         
-        # Save to file for later use
-        emoji_data = {
-            "id": str(app_id),
-            "emojis": emojis
-        }
+        # Build JSON for emojis_list.json
+        emoji_list = []
+        display_lines = []
         
-        emoji_path = os.path.join(SCRIPT_DIR, "app_emojis.json")
-        with open(emoji_path, 'w', encoding='utf-8') as f:
-            json.dump(emoji_data, f, indent=2, ensure_ascii=False)
-        
-        # Display emojis
-        lines = []
-        for emoji in emojis:
-            prefix = "a" if emoji.get('animated', False) else ""
+        for emoji in emojis['items']:
+            emoji_data = {
+                "id": emoji['id'],
+                "name": emoji['name'],
+                "animated": emoji.get('animated', False)
+            }
+            emoji_list.append(emoji_data)
+            
+            prefix = "a" if emoji.get('animated') else ""
             emoji_str = f"<{prefix}:{emoji['name']}:{emoji['id']}>"
-            lines.append(f"{emoji_str} `{emoji['name']}` - ID: `{emoji['id']}`")
+            display_lines.append(f"{emoji_str} `{emoji['name']}` - ID: `{emoji['id']}`")
         
+        # Send display
         chunks = []
-        current_chunk = f"**App Emojis ({len(emojis)} total)**\n\n"
+        current = f"**App Emojis ({len(emoji_list)} total)**\n\n"
         
-        for line in lines:
-            if len(current_chunk) + len(line) + 1 > 1900:
-                chunks.append(current_chunk)
-                current_chunk = ""
-            current_chunk += line + "\n"
+        for line in display_lines:
+            if len(current) + len(line) + 1 > 1900:
+                chunks.append(current)
+                current = ""
+            current += line + "\n"
         
-        if current_chunk:
-            chunks.append(current_chunk)
+        if current:
+            chunks.append(current)
         
         for chunk in chunks:
             await ctx.send(chunk)
+        
+        # Also save to file
+        output = {"id": str(app_id), "emojis": emoji_list}
+        output_path = os.path.join(SCRIPT_DIR, "app_emojis.json")
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(output, f, indent=4)
         
         await ctx.send(f"✅ Saved to `app_emojis.json`")
         
