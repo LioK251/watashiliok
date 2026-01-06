@@ -41,8 +41,14 @@ EMOJI_DIR = os.path.join(SCRIPT_DIR, "Emojis")
 
 # ==================== EMOJI DATA ====================
 def load_emoji_data():
-    """Load emoji IDs from emojis_list.json"""
-    emoji_path = os.path.join(SCRIPT_DIR, "emojis_list.json")
+    """Load emoji IDs from app_emojis.json (App Emojis from Developer Portal)"""
+    # First try app_emojis.json (App Emojis - works everywhere)
+    emoji_path = os.path.join(SCRIPT_DIR, "app_emojis.json")
+    
+    # Fallback to emojis_list.json if app_emojis doesn't exist
+    if not os.path.exists(emoji_path):
+        emoji_path = os.path.join(SCRIPT_DIR, "emojis_list.json")
+    
     emoji_ids = {}
     
     if os.path.exists(emoji_path):
@@ -614,21 +620,17 @@ async def on_message(message):
             your_items_display = ""
             for item_name, quantity, item_value in your_items_valid:
                 emoji = get_item_emoji(item_name, guild_emojis)
-                your_items_display += f"{emoji} **x{quantity}** `{item_value:,}`\n"
+                display_name = get_display_name(item_name)
+                your_items_display += f"{emoji} **x{quantity}** {display_name} `{item_value:,}`\n"
             
             their_items_display = ""
             for item_name, quantity, item_value in their_items_valid:
                 emoji = get_item_emoji(item_name, guild_emojis)
-                their_items_display += f"{emoji} **x{quantity}** `{item_value:,}`\n"
+                display_name = get_display_name(item_name)
+                their_items_display += f"{emoji} **x{quantity}** {display_name} `{item_value:,}`\n"
 
-            embed = discord.Embed(
-                title="⚔️ Trade Comparison ⚔️",
-                description=f"```\n{'═' * 30}\n```",
-                color=embed_color
-            )
-            
             embed.add_field(
-                name="🎁 Your Trade", 
+                name="🪴 Your Trade", 
                 value=your_items_display if your_items_display else "None", 
                 inline=True
             )
@@ -642,7 +644,7 @@ async def on_message(message):
             embed.add_field(name="\u200b", value="\u200b", inline=False)
             
             embed.add_field(
-                name="💰 Your Total", 
+                name="💵 Your Total", 
                 value=f"{your_check} **{your_total:,}**", 
                 inline=True
             )
