@@ -368,6 +368,67 @@ async def on_message(message):
         return
     
     content = message.content.strip()
+    
+    if content.lower().startswith('v '):
+        items_str = content[2:].strip()
+        items = parse_items(items_str)
+        
+        if not items:
+            return
+        
+        guild_emojis = message.guild.emojis if message.guild else []
+        
+        items_display = ""
+        total_value = 0
+        unknown_items = []
+        
+        for item_name, quantity in items:
+            value = get_item_value(item_name)
+            if value is not None:
+                item_total = value * quantity
+                total_value += item_total
+                emoji = get_item_emoji(item_name, guild_emojis)
+                display_name = get_display_name(item_name)
+                if quantity > 1:
+                    items_display += f"{emoji} **x{quantity}** — `{value:,}` each = `{item_total:,}`\n"
+                else:
+                    items_display += f"{emoji} — `{value:,}`\n"
+            else:
+                unknown_items.append(item_name)
+        
+        if unknown_items:
+            await message.channel.send(f"❌ Unknown items: {', '.join(unknown_items)}")
+            return
+        
+        if not items_display:
+            return
+        
+        embed = discord.Embed(
+            title="💎 Value Check",
+            color=discord.Color.blue()
+        )
+        
+        embed.add_field(
+            name="📦 Items",
+            value=items_display,
+            inline=False
+        )
+        
+        if len(items) > 1:
+            embed.add_field(
+                name="💰 Total Value",
+                value=f"**{total_value:,}**",
+                inline=False
+            )
+        
+        embed.set_footer(
+            text=f"Requested by {message.author.display_name}",
+            icon_url=message.author.display_avatar.url if message.author.display_avatar else None
+        )
+        
+        await message.reply(embed=embed)
+        return
+    
     match = re.match(r'^(.+?)\s+for\s+(.+)$', content, re.IGNORECASE)
     
     if match:
