@@ -31,7 +31,7 @@
         "chromatic_ase": {"value": 120000, "names": ["chromatic all seeing eye", "chroma ase", "case", "chrome ase", "crase", "chromatic ase"], "emoji": "Chroma_AllSeeingEye"},
         "blo_ase": {"value": 41000, "names": ["blo ase", "bloase", "bloody ase"], "emoji": "blo_ase"},
         "holly_ase": {"value": 34000, "names": ["holly ase", "hase", "hollyase"], "emoji": "hollyase"},
-        "all_seeing_baal": {"value": 36000, "names": ["all seeing baal", "asb", "baal ase"], "emoji": "AllSeeingBaal"},
+        "all_seeing_baal": {"value": 36000, "names": ["all seeing baal", "asb", "baal ase", "base"], "emoji": "AllSeeingBaal"},
         "sp_reset": {"value": 5, "names": ["sp reset", "spr", "reset"], "emoji": "SPReset"},
         "dark_root": {"value": 10, "names": ["dark root", "rt", "root", "dr", "darkroot"], "emoji": "darkroot"},
         "spirit_color": {"value": 150, "names": ["spirit color", "sc", "spirit", "color"], "emoji": "spiritcolor"},
