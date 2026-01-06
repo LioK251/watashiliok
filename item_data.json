@@ -207,6 +207,7 @@
         "elf_outfit": {"value": 100, "names": ["elf outfit", "elfoutfit", "elffit", "elf fit", "elf"], "emoji": "Happy_elf_oitfit"},
         "nutcracker_outfit": {"value": 200, "names": ["nutcracker outfit", "nutcrackeroutfit", "nutcracker fit", "nutcrackerfit", "nutcracker", "nut"], "emoji": "Nutcracker_Outfit"},
         "drippy_santa_outfit": {"value": 1000, "names": ["drippy santa outfit", "drippysantaoutfit", "drippy santa fit", "drippysantafit", "drippy santa", "drippysanta", "drippy"], "emoji": "Drippy_Santa_outfit"},
-        "candy_cane_outfit": {"value": 800, "names": ["candy cane outfit", "candycaneoutfit", "cc outfit", "ccoutfit", "cc fit", "ccfit", "cane outfit", "caneoutfit", "cane fit", "canefit"], "emoji": "Candy_Cane_outfit"}
+        "candy_cane_outfit": {"value": 800, "names": ["candy cane outfit", "candycaneoutfit", "cc outfit", "ccoutfit", "cc fit", "ccfit", "cane outfit", "caneoutfit", "cane fit", "canefit"], "emoji": "Candy_Cane_outfit"},
+        "napoleon": {"value": 15000, "names": ["napoleon outfit", "napoleonoutfit", "napoleon fit", "napoleonfit", "napoleon"], "emoji": "Napoleon"}
     }
 }
