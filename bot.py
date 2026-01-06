@@ -404,8 +404,8 @@ async def on_message(message):
             return
         
         embed = discord.Embed(
-            title="💎 Value Check",
-            color=discord.Color.green()
+            title="💎 Value Check 💎",
+            color=discord.Color.blue()
         )
         
         embed.add_field(
