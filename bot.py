@@ -537,10 +537,6 @@ async def on_message(message):
                 description=f"```\n{'═' * 30}\n```",
                 color=embed_color
             )
-            embed.set_author(
-                name=f"Trade by {message.author.display_name}", 
-                icon_url=message.author.display_avatar.url
-            )
             
             embed.add_field(
                 name="🎁 Your Trade", 
