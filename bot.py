@@ -391,6 +391,63 @@ async def list_items(ctx):
     for i, chunk in enumerate(chunks):
         await ctx.send(chunk)
 
+@bot.command(name='appemojis')
+async def app_emojis(ctx):
+    """Fetch and display App Emojis from the bot's application"""
+    if ctx.author.id != 437943086048608266:
+        return
+    
+    try:
+        app_id = bot.application_id or bot.user.id
+        
+        # Fetch app emojis via HTTP request
+        data = await bot.http.request(
+            discord.http.Route('GET', '/applications/{application_id}/emojis', application_id=app_id)
+        )
+        
+        emojis = data.get('items', [])
+        
+        if not emojis:
+            await ctx.send("❌ No App Emojis found. Upload emojis in Developer Portal!")
+            return
+        
+        # Save to file for later use
+        emoji_data = {
+            "id": str(app_id),
+            "emojis": emojis
+        }
+        
+        emoji_path = os.path.join(SCRIPT_DIR, "app_emojis.json")
+        with open(emoji_path, 'w', encoding='utf-8') as f:
+            json.dump(emoji_data, f, indent=2, ensure_ascii=False)
+        
+        # Display emojis
+        lines = []
+        for emoji in emojis:
+            prefix = "a" if emoji.get('animated', False) else ""
+            emoji_str = f"<{prefix}:{emoji['name']}:{emoji['id']}>"
+            lines.append(f"{emoji_str} `{emoji['name']}` - ID: `{emoji['id']}`")
+        
+        chunks = []
+        current_chunk = f"**App Emojis ({len(emojis)} total)**\n\n"
+        
+        for line in lines:
+            if len(current_chunk) + len(line) + 1 > 1900:
+                chunks.append(current_chunk)
+                current_chunk = ""
+            current_chunk += line + "\n"
+        
+        if current_chunk:
+            chunks.append(current_chunk)
+        
+        for chunk in chunks:
+            await ctx.send(chunk)
+        
+        await ctx.send(f"✅ Saved to `app_emojis.json`")
+        
+    except Exception as e:
+        await ctx.send(f"❌ Error: {e}")
+
 @bot.event
 async def on_ready():
     print(f'{bot.user} has connected to Discord!')
