@@ -488,9 +488,9 @@ async def on_message(message):
                 emoji = get_item_emoji(item_name, guild_emojis)
                 display_name = get_display_name(item_name)
                 if quantity > 1:
-                    items_display += f"{emoji} **x{quantity}** — `{item_total:,}`, each - `{value:,}`\n"
+                    items_display += f"{emoji} **x{quantity}** {display_name} — `{item_total:,}`, each - `{value:,}`\n"
                 else:
-                    items_display += f"{emoji} — `{value:,}`\n"
+                    items_display += f"{emoji} {display_name} — `{value:,}`\n"
             else:
                 unknown_items.append(item_name)
         
@@ -502,8 +502,8 @@ async def on_message(message):
             return
         
         embed = discord.Embed(
-            title="💎 Value Check 💎",
-            color=discord.Color.blue()
+            title="",
+            color=discord.Color.gold()
         )
         
         embed.add_field(
@@ -629,6 +629,12 @@ async def on_message(message):
                 display_name = get_display_name(item_name)
                 their_items_display += f"{emoji} **x{quantity}** {display_name} `{item_value:,}`\n"
 
+            embed = discord.Embed(
+                title="",
+                description=f"```\n{'═' * 30}\n```",
+                color=embed_color
+            )
+
             embed.add_field(
                 name="📦 Your Trade", 
                 value=your_items_display if your_items_display else "None", 
@@ -679,11 +685,8 @@ async def on_message(message):
             
             embed.set_footer(
                 text=f"Watashi LioK • {datetime.now().strftime('%B %d, %Y at %I:%M %p')}",
-                icon_url=bot.user.display_avatar.url if bot.user.display_avatar else None
+                icon_url=None
             )
-            
-            if message.author.display_avatar:
-                embed.set_thumbnail(url=message.author.display_avatar.url)
             
             await message.reply(embed=embed)
         
