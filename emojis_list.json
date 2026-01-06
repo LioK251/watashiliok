@@ -1,0 +1,2246 @@
+{
+    "id": "955357166330601542",
+    "emojis": [
+        {
+            "id": "1001121424573988884",
+            "name": "Ito",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001122111382900826",
+            "name": "Zushi",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001122239556636762",
+            "name": "Gura",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001123092669681685",
+            "name": "Suna",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001123313550106685",
+            "name": "Hie",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001123718405292133",
+            "name": "Magu",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001124008386904066",
+            "name": "Goro",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001124193271812096",
+            "name": "Mera",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001124357252329543",
+            "name": "Pika",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001124557870076004",
+            "name": "Tori",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001124693329322104",
+            "name": "Mochi",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1001124797360640041",
+            "name": "Paw",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1124595121028087818",
+            "name": "yami",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1124595328117649558",
+            "name": "kage",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1124595721836953700",
+            "name": "yuki",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1124606488850210846",
+            "name": "AllSeeingEye",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126787470512635934",
+            "name": "croccape",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126788033878970380",
+            "name": "baalhead",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126788517029236767",
+            "name": "sbcore",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126788871267557396",
+            "name": "allfruits",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126790843374772314",
+            "name": "pbag",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126790888429981758",
+            "name": "opeope",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126790942192566272",
+            "name": "BorjGauntlet",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126790965273821317",
+            "name": "flowers",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126790992062861332",
+            "name": "hoverboard",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126791023608221726",
+            "name": "jfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126791043984138300",
+            "name": "jscythe",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126791096224202803",
+            "name": "batswarm",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126791142348968007",
+            "name": "bothcores",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126791195310428240",
+            "name": "kkcore",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126795736235905104",
+            "name": "annilantern",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126797848504193034",
+            "name": "cupidwand",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126799211497795634",
+            "name": "drums",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126799235736670218",
+            "name": "drippyfitv2",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126799325150855208",
+            "name": "darkroot",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126799397158662216",
+            "name": "dfjournal",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126800567478530099",
+            "name": "goldhammer",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126800593600647208",
+            "name": "flamingoboat",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126800633694007316",
+            "name": "festivalshield",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126800737763086386",
+            "name": "eloegg",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126801034489106542",
+            "name": "elohammer",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126801302664511538",
+            "name": "ghook",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126801570454065292",
+            "name": "goldenpole",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126801596026720316",
+            "name": "gravityblade",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126804454499438622",
+            "name": "moriascissors",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126804505934188574",
+            "name": "morianecklace",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126804570513883177",
+            "name": "rocketblade",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126805405910175765",
+            "name": "soulkingguitar",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126805454773833810",
+            "name": "soulkingscarf",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126805766364471300",
+            "name": "soulkingviolin",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126806952270377011",
+            "name": "kikoku",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126810348159242263",
+            "name": "FOR",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126816149112360970",
+            "name": "deathball",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126816192791838731",
+            "name": "cupidheadband",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126816233564680273",
+            "name": "cc",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126816359402184725",
+            "name": "BourjArmor",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126816609936351303",
+            "name": "add",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126816660062482532",
+            "name": "zhencape",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126817500630356038",
+            "name": "marinecape",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126817612689571983",
+            "name": "wonderballoons",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126817801630384168",
+            "name": "venom",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126817905686892645",
+            "name": "triden",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126817989065449574",
+            "name": "TriangleSquidgame",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126818027195871253",
+            "name": "ThunderHaori",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126818102672359486",
+            "name": "Tentails",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126818222675611689",
+            "name": "newElfhat",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126825316405489684",
+            "name": "Striker",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126825363612373013",
+            "name": "GoldenShades",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126825411024789555",
+            "name": "SquareSquidgame",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126825525843853373",
+            "name": "SpareFruitBag",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126825730739810304",
+            "name": "Howmany",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126825767859400704",
+            "name": "iceborn_dagger",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126825798083547208",
+            "name": "iceborn_rapier",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126825832090964090",
+            "name": "karoo",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126825902521729035",
+            "name": "kurohit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126826076820230244",
+            "name": "LegChest",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126826259054329896",
+            "name": "PCC",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126826296954073099",
+            "name": "PIRB",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126826330051313724",
+            "name": "planetarydevastation",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126826360107708428",
+            "name": "PFL",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126826475165847612",
+            "name": "RareChest",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126839611126202449",
+            "name": "baalcape",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126839764478332988",
+            "name": "bel",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126839797877592154",
+            "name": "bisento",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126839974914957345",
+            "name": "bunnyhood",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126840036344729740",
+            "name": "CircleHoodie",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126840076232556584",
+            "name": "Candy_Cane_outfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126840174559633458",
+            "name": "CrabCrown",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126840219266723870",
+            "name": "crabcutlass",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126840275667525723",
+            "name": "cupidbattleaxe",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126840308160790568",
+            "name": "Demon_Slayer_outfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126840351030775818",
+            "name": "Drippy_Santa_outfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126840468647456869",
+            "name": "Grinch_hat",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126840504034787338",
+            "name": "Grinch_outfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126840570594214050",
+            "name": "Happy_elf_oitfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126845348753711275",
+            "name": "Heros_Cape",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126845437748453416",
+            "name": "HollowFang",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126845536838885458",
+            "name": "itadori",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126845583475355749",
+            "name": "jesterbox",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126845627163226112",
+            "name": "jhat",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126845723779022898",
+            "name": "Jumpsuit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126845787234640003",
+            "name": "kiribachi",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126845902112440350",
+            "name": "lf",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126846119964573819",
+            "name": "minibunny",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126846283315937391",
+            "name": "mythicalchest",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126846321815466094",
+            "name": "Nutcracker_Outfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126854830376361984",
+            "name": "ryumascarf",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126854898986790962",
+            "name": "musashisfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126854936399986748",
+            "name": "musashishat",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126861369002696714",
+            "name": "worldender",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126861553497546762",
+            "name": "thrilledship",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1126861600893173832",
+            "name": "susano",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1127141721235533884",
+            "name": "SPReset",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1127147841844944978",
+            "name": "SoulCane",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1127150250864422913",
+            "name": "Shusui",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1127151951113633944",
+            "name": "Fwork_lancer",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1127155041900437566",
+            "name": "CoffinBoat",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1127449410515783830",
+            "name": "Pica_armour",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1127450113153962044",
+            "name": "Pica_Helmet",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1127888342751649792",
+            "name": "x5rarechests",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1127888516844617768",
+            "name": "x5legchests",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1128302875974569984",
+            "name": "FestivalLance",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1128438665325064255",
+            "name": "santahat",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1131082134350737498",
+            "name": "Vraels_pipe",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1175293715963715635",
+            "name": "Lucy_fit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1176805121728991242",
+            "name": "Kessui",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1176806474845003816",
+            "name": "hollowhallberd",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1176806515441684561",
+            "name": "hollowgreatsword",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1176806547054153751",
+            "name": "Raiui",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1176806581229334548",
+            "name": "Starkguns",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1176806621473689640",
+            "name": "Veraswhip",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1176806667250315284",
+            "name": "Ressurectedbaalshead",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1176806714775978037",
+            "name": "Truebaalshead",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1176806767515144192",
+            "name": "Truebaalsguard",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1176808536651604030",
+            "name": "Buddha",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1177226965305020487",
+            "name": "spiritcolor",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1178057103278100581",
+            "name": "pitchfork",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1181751088727212183",
+            "name": "ResurrectedBaalfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1189110164696076348",
+            "name": "icebornblade",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1189110209357037598",
+            "name": "icebornkatana",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1189110246015242281",
+            "name": "fireworkdaggers",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1189110283210326026",
+            "name": "fireworklauncher",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1189110323240783943",
+            "name": "pfd",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1189110384901226556",
+            "name": "pfrl",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1190829720061882408",
+            "name": "coyotefit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1219489771936677929",
+            "name": "blue_valk",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1219489936361783336",
+            "name": "black_valk",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1219490198358986792",
+            "name": "allmythics",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1233040105594159164",
+            "name": "Megalodon_Helmet",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1233041027980460164",
+            "name": "Boneshiver",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1233041051867156601",
+            "name": "flower_sword",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1233042434804682840",
+            "name": "Megalodon_Armor",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1236667477434306580",
+            "name": "yukiothebunny",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1252293357204668496",
+            "name": "Ptero",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1252293413894750328",
+            "name": "darkblade",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1252293571575419011",
+            "name": "ace",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1266990693394419733",
+            "name": "isoh",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1270386461426061342",
+            "name": "TojiOutfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1297950762990702602",
+            "name": "smoke",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1297950918213501110",
+            "name": "gold",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1297953723883978752",
+            "name": "sunkenanchor",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1297973595670315018",
+            "name": "bloodscythe",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1301198488511451187",
+            "name": "nightfallshroud",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1321510510591606784",
+            "name": "iceborn_gunblade",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1322193376161955892",
+            "name": "zoranas_haori",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1322193396349276281",
+            "name": "zoranas_robe",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1322195280996732958",
+            "name": "snowcap_scepter",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1330343829777158194",
+            "name": "unobs",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1336355290395971706",
+            "name": "kira",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1336356072247791617",
+            "name": "Dominus_Empyreus",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1336357438005313649",
+            "name": "sparkle_valk",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1336357458482040884",
+            "name": "violet_valk",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1336357483270115358",
+            "name": "Emerald_valk",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1336357509140844585",
+            "name": "ice_valk",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1346050007052058765",
+            "name": "rocky_pet",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1346050028959043655",
+            "name": "mega_pow",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1346050781240885310",
+            "name": "supremegiftboxarmor",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1346050805156941935",
+            "name": "supremegiftboxhelmet",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1346053515180769422",
+            "name": "anomalizedMega_pow",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1346332738633863219",
+            "name": "Chroma_AllSeeingEye",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1358402937528782939",
+            "name": "clown_wig",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1358402968424284252",
+            "name": "epic_banana",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1358403004226605247",
+            "name": "troll_face",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1370349455873675274",
+            "name": "black_bull_outfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1371801354858659950",
+            "name": "blo_ase",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1371805571946381334",
+            "name": "blo_hammer_crimson",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1372929970330140723",
+            "name": "kumakawa_head",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1372930003582582804",
+            "name": "usamii_head",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1380033571816738836",
+            "name": "bunyo",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1429688262963892364",
+            "name": "swordfishrapier",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1430090005904228463",
+            "name": "SpecialTailorToken",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1430098054265962527",
+            "name": "halfshroud",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1431829163920330893",
+            "name": "prestigewender",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1431829192240136285",
+            "name": "hollowwender",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1431925961552822302",
+            "name": "Blossom_Skirt",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1432416091115749519",
+            "name": "maxpeli",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1434107668724977677",
+            "name": "FruitFishingRod",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1434107696516173846",
+            "name": "AllSeeingBaal",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1436390125931331635",
+            "name": "armor",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1436390158868938823",
+            "name": "helmet",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1436390194579374231",
+            "name": "sunken",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1437006263702786121",
+            "name": "ODMrod",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1437008384951058482",
+            "name": "TitanShifterAura",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438187331927412968",
+            "name": "wings",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438187364118958090",
+            "name": "Blessed",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438187394292646020",
+            "name": "Exalted",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438187422973296682",
+            "name": "scarf",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438187449770705086",
+            "name": "bow",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438187509413712043",
+            "name": "red",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438188406046851187",
+            "name": "outfit",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438194253003231282",
+            "name": "cupid",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438196576534265987",
+            "name": "OG",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438198032045834290",
+            "name": "Azure",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438198060240076960",
+            "name": "Blade",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438198090640130241",
+            "name": "cape",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438200750928040136",
+            "name": "Blue",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438200782838042624",
+            "name": "Green",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438200813775228958",
+            "name": "purple",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438201020067872878",
+            "name": "golden",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438203693664043220",
+            "name": "Endbringer",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1438204275502223360",
+            "name": "law",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1439258862883442772",
+            "name": "max",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1439258910388260945",
+            "name": "Legendary",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1439259005506683001",
+            "name": "Fishbait",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1439259625693118587",
+            "name": "maxlegfishbait",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440121953406156993",
+            "name": "Roger",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440122261645299882",
+            "name": "hat",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440122306738520095",
+            "name": "HawkEye",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440128911475478690",
+            "name": "Kizaru",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440129157190127676",
+            "name": "shades",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440130801558753420",
+            "name": "Donmingo",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440135367905906708",
+            "name": "Moria",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440138973761765377",
+            "name": "soulking",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440140587503321188",
+            "name": "RockstarSoulKing",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440152854533902377",
+            "name": "Necklace",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440152932262740062",
+            "name": "Rumbling",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1440153533532995675",
+            "name": "katana",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1453728033511964768",
+            "name": "hollyase",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1454024173511774339",
+            "name": "Dragon",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1454024231388971089",
+            "name": "Soul",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1454025472991170742",
+            "name": "Napoleon",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1454025504045924393",
+            "name": "Trident",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1454025528825876538",
+            "name": "BigMom",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1454025562745077905",
+            "name": "Katakuri",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1455210670818721954",
+            "name": "IcebornCC",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1456284133662920839",
+            "name": "hover_pod",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1456284166948782172",
+            "name": "TimeRift_Capsule",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1456286257637228565",
+            "name": "Snoozy_Neko",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        },
+        {
+            "id": "1457293656657498239",
+            "name": "Mighty_Cat",
+            "roles": [],
+            "require_colons": true,
+            "managed": false,
+            "animated": false,
+            "available": true
+        }
+    ]
+}
