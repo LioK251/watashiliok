@@ -129,7 +129,10 @@ def get_item_emoji(item_name, guild_emojis):
         if emoji.name.lower() == emoji_name.lower():
             return str(emoji)
     
-    # Return the proper display name as fallback
+    for emoji in bot.emojis:
+        if emoji.name.lower() == emoji_name.lower():
+            return str(emoji)
+    
     display_name = get_display_name(item_name)
     return f"**{display_name}**"
 
@@ -409,7 +412,7 @@ async def on_message(message):
         )
         
         embed.add_field(
-            name="items_display",
+            name=f"{items_display}",
             value="",
             inline=False
         )
