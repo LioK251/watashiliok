@@ -630,13 +630,13 @@ async def on_message(message):
                 their_items_display += f"{emoji} **x{quantity}** {display_name} `{item_value:,}`\n"
 
             embed.add_field(
-                name="🪴 Your Trade", 
+                name="📦 Your Trade", 
                 value=your_items_display if your_items_display else "None", 
                 inline=True
             )
             
             embed.add_field(
-                name="🎁 Their Trade", 
+                name="🛒 Their Trade", 
                 value=their_items_display if their_items_display else "None", 
                 inline=True
             )
@@ -644,12 +644,12 @@ async def on_message(message):
             embed.add_field(name="\u200b", value="\u200b", inline=False)
             
             embed.add_field(
-                name="💵 Your Total", 
+                name="🏦 Your Total", 
                 value=f"{your_check} **{your_total:,}**", 
                 inline=True
             )
             embed.add_field(
-                name="💰 Their Total", 
+                name="💼 Their Total", 
                 value=f"{their_check} **{their_total:,}**", 
                 inline=True
             )
