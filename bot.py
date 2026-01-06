@@ -390,7 +390,7 @@ async def on_message(message):
                 emoji = get_item_emoji(item_name, guild_emojis)
                 display_name = get_display_name(item_name)
                 if quantity > 1:
-                    items_display += f"{emoji} **x{quantity}** — `{value:,}` each = `{item_total:,}`\n"
+                    items_display += f"{emoji} **x{quantity}** — `{item_total:,}`, each - `{value:,}`\n"
                 else:
                     items_display += f"{emoji} — `{value:,}`\n"
             else:
@@ -405,26 +405,22 @@ async def on_message(message):
         
         embed = discord.Embed(
             title="💎 Value Check",
-            color=discord.Color.blue()
+            color=discord.Color.green()
         )
         
         embed.add_field(
-            name="📦 Items",
-            value=items_display,
+            name="items_display",
+            value="",
             inline=False
         )
         
         if len(items) > 1:
             embed.add_field(
-                name="💰 Total Value",
-                value=f"**{total_value:,}**",
+                name=f"💰 Total Value - **{total_value:,}**",
+                value="",
                 inline=False
             )
         
-        embed.set_footer(
-            text=f"Requested by {message.author.display_name}",
-            icon_url=message.author.display_avatar.url if message.author.display_avatar else None
-        )
         
         await message.reply(embed=embed)
         return
