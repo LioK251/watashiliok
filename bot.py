@@ -518,7 +518,11 @@ async def on_message(message):
                 value="",
                 inline=False
             )
-        
+
+        embed.set_footer(
+            text=f"Watashi LioK • {datetime.now().strftime('%B %d, %Y at %I:%M %p')}",
+            icon_url=None
+        )
         
         await message.reply(embed=embed)
         return
