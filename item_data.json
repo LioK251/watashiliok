@@ -145,7 +145,7 @@
             "emoji": "venom"
         },
         "mochi": {
-            "value": 5600,
+            "value": 5400,
             "names": [
                 "mochi"
             ],
@@ -1247,7 +1247,7 @@
             "emoji": "bloodscythe"
         },
         "nightfall_shroud": {
-            "value": 5500,
+            "value": 5200,
             "names": [
                 "nightfall shroud",
                 "nightfallshroud",
@@ -2104,7 +2104,7 @@
             "emoji": "PCC"
         },
         "iceborn_candy_cane": {
-            "value": 170000,
+            "value": 190000,
             "names": [
                 "iceborn candy cane",
                 "iceborncandycane",
