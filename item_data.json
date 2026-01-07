@@ -1,213 +1,2263 @@
 {
     "items": {
-        "ito": {"value": 80, "names": ["ito"], "emoji": "Ito"},
-        "paw": {"value": 200, "names": ["paw"], "emoji": "Paw"},
-        "kage": {"value": 50, "names": ["kage"], "emoji": "kage"},
-        "gura": {"value": 600, "names": ["gura"], "emoji": "Gura"},
-        "goro": {"value": 100, "names": ["goro"], "emoji": "Goro"},
-        "yami": {"value": 50, "names": ["yami"], "emoji": "yami"},
-        "zushi": {"value": 150, "names": ["zushi"], "emoji": "Zushi"},
-        "hie": {"value": 150, "names": ["hie"], "emoji": "Hie"},
-        "suna": {"value": 400, "names": ["suna"], "emoji": "Suna"},
-        "yuki": {"value": 100, "names": ["yuki"], "emoji": "yuki"},
-        "mera": {"value": 200, "names": ["mera"], "emoji": "Mera"},
-        "magu": {"value": 400, "names": ["magu"], "emoji": "Magu"},
-        "gold": {"value": 100, "names": ["gold"], "emoji": "gold"},
-        "smoke": {"value": 100, "names": ["smoke"], "emoji": "smoke"},
-        "pika": {"value": 1400, "names": ["pika"], "emoji": "Pika"},
-        "ope": {"value": 3000, "names": ["ope"], "emoji": "opeope"},
-        "tori": {"value": 3000, "names": ["tori", "phoenix"], "emoji": "Tori"},
-        "buddha": {"value": 1200, "names": ["buddha", "bud"], "emoji": "Buddha"},
-        "ptero": {"value": 4800, "names": ["ptero", "pteranodon"], "emoji": "Ptero"},
-        "venom": {"value": 4500, "names": ["venom", "ven"], "emoji": "venom"},
-        "mochi": {"value": 5600, "names": ["mochi"], "emoji": "Mochi"},
-        "soul": {"value": 8000, "names": ["soul"], "emoji": "Soul"},
-        "dragon": {"value": 26000, "names": ["dragon", "drag"], "emoji": "Dragon"},
-        "token": {"value": 50, "names": ["token", "tok"], "emoji": "SpecialTailorToken"},
-        "rare_chest": {"value": 80, "names": ["rare chest", "rc"], "emoji": "RareChest"},
-        "legendary_chest": {"value": 600, "names": ["legendary chest", "lc", "leg chest"], "emoji": "LegChest"},
-        "mythical_chest": {"value": 9000, "names": ["mythical chest", "mc", "myth chest"], "emoji": "mythicalchest"},
-        "all_seeing_eye": {"value": 32000, "names": ["all seeing eye", "ase", "eye"], "emoji": "AllSeeingEye"},
-        "chromatic_ase": {"value": 120000, "names": ["chromatic all seeing eye", "chroma ase", "case", "chrome ase", "crase", "chromatic ase"], "emoji": "Chroma_AllSeeingEye"},
-        "blo_ase": {"value": 41000, "names": ["blo ase", "bloase", "bloody ase"], "emoji": "blo_ase"},
-        "holly_ase": {"value": 34000, "names": ["holly ase", "hase", "hollyase"], "emoji": "hollyase"},
-        "all_seeing_baal": {"value": 36000, "names": ["all seeing baal", "asb", "baal ase", "base"], "emoji": "AllSeeingBaal"},
-        "sp_reset": {"value": 5, "names": ["sp reset", "spr", "reset"], "emoji": "SPReset"},
-        "dark_root": {"value": 10, "names": ["dark root", "rt", "root", "dr", "darkroot"], "emoji": "darkroot"},
-        "spirit_color": {"value": 150, "names": ["spirit color", "sc", "spirit", "color"], "emoji": "spiritcolor"},
-        "spare_fruit_bag": {"value": 100, "names": ["spare fruit bag", "fruit bag", "sfb", "fb", "bag"], "emoji": "SpareFruitBag"},
-        "thriller_ship": {"value": 300, "names": ["thriller ship", "thriller", "ts", "ship"], "emoji": "thrilledship"},
-        "hoverboard": {"value": 500, "names": ["hoverboard", "hb", "hover", "board"], "emoji": "hoverboard"},
-        "coffin_boat": {"value": 600, "names": ["coffin boat", "coffin", "cb"], "emoji": "CoffinBoat"},
-        "striker_boat": {"value": 600, "names": ["striker boat", "striker"], "emoji": "Striker"},
-        "golden_hammer": {"value": 75, "names": ["golden hammer", "goldenhammer", "ghammer", "gh", "gold hammer", "hammer"], "emoji": "goldhammer"},
-        "df_journal": {"value": 150, "names": ["df journal", "dfjournal", "dfj", "journal"], "emoji": "dfjournal"},
-        "karoo": {"value": 75, "names": ["karoo", "duck"], "emoji": "karoo"},
-        "soul_cleaver": {"value": 15000, "names": ["soul cleaver", "soulcleaver", "scleaver", "sc cleaver", "cleaver"], "emoji": "SoulCane"},
-        "jitte": {"value": 200, "names": ["jitte"], "emoji": "triden"},
-        "golden_hook": {"value": 50, "names": ["golden hook", "goldenhook", "ghook", "gold hook", "hook"], "emoji": "ghook"},
-        "bisento": {"value": 50, "names": ["bisento", "bis"], "emoji": "bisento"},
-        "gravity_cane": {"value": 50, "names": ["gravity cane", "gravitycane", "gcane", "grav cane", "gravcane", "grav"], "emoji": "gravityblade"},
-        "moria_scissors": {"value": 50, "names": ["morias scissors", "moria scissors", "moriascissors", "scissors", "mscissors"], "emoji": "moriascissors"},
-        "borj_gauntlets": {"value": 150, "names": ["borj gauntlets", "borjgauntlets", "borj gauntlet", "borjgauntlet", "borj", "bg", "gauntlets", "gauntlet"], "emoji": "BorjGauntlet"},
-        "shusui": {"value": 100, "names": ["shusui", "shu"], "emoji": "Shusui"},
-        "crab_cutlass": {"value": 50, "names": ["crab cutlass", "crabcutlass", "crab", "cutlass", "cc cutlass"], "emoji": "crabcutlass"},
-        "golden_pole": {"value": 50, "names": ["golden pole", "goldenpole", "gpole", "gold pole", "goldpole", "pole"], "emoji": "goldenpole"},
-        "neptune_trident": {"value": 100, "names": ["neptunes trident", "neptunestrident", "neptune trident", "neptunetrident", "neptune", "nep trident", "neptrident", "nep", "trident"], "emoji": "triden"},
-        "black_pitchfork": {"value": 50, "names": ["black pitchfork", "blackpitchfork", "pitchfork", "bpf", "pf", "fork"], "emoji": "pitchfork"},
-        "vera_whip": {"value": 50, "names": ["veras whip", "veraswhip", "vera whip", "verawhip", "whip", "vwhip", "vera"], "emoji": "Veraswhip"},
-        "raiui": {"value": 50, "names": ["raiui"], "emoji": "Raiui"},
-        "soul_cane": {"value": 200, "names": ["soul cane", "soulcane", "scane", "cane"], "emoji": "SoulCane"},
-        "pipe": {"value": 150, "names": ["pipe"], "emoji": "Vraels_pipe"},
-        "flower_sword": {"value": 1400, "names": ["flower sword", "flowersword", "fs", "fsword"], "emoji": "flower_sword"},
-        "ace": {"value": 1000, "names": ["ace"], "emoji": "ace"},
-        "yoru": {"value": 4200, "names": ["yoru", "darkblade", "db", "dark blade"], "emoji": "darkblade"},
-        "kikoku": {"value": 9000, "names": ["kikoku", "koku", "kiko", "kk", "law sword", "lawsword"], "emoji": "kikoku"},
-        "mochi_trident": {"value": 600, "names": ["mochi trident", "mochitrident", "mt", "mtrident", "mochi tri", "mochitri"], "emoji": "Trident"},
-        "helix_skewer": {"value": 100, "names": ["helix skewer", "helixskewer", "helix", "hskewer", "skewer"], "emoji": "soulkingviolin"},
-        "violin": {"value": 100, "names": ["violin"], "emoji": "soulkingviolin"},
-        "soul_king_guitar": {"value": 1800, "names": ["soul king guitar", "soulkingguitar", "sk guitar", "skg", "guitar", "skguitar"], "emoji": "soulkingguitar"},
-        "sk_fit": {"value": 75, "names": ["sk fit", "skfit", "soul king fit", "soulkingfit", "soul king outfit", "soulkingoutfit"], "emoji": "soulking"},
-        "sk_hat": {"value": 150, "names": ["sk hat", "skhat", "soul king hat", "soulkinghat"], "emoji": "soulking"},
-        "sk_shades": {"value": 100, "names": ["sk shades", "skshades", "soul king shades", "soulkingshades", "shades"], "emoji": "soulking"},
-        "soul_king_scarf": {"value": 27000, "names": ["soul king scarf", "soulkingscarf", "sk scarf", "sks", "skscarf", "skarf"], "emoji": "soulkingscarf"},
-        "musashi_karuta": {"value": 25, "names": ["musashi karuta", "musashikaruta", "musashi fit", "musashifit", "mkaruta", "musashi", "karuta"], "emoji": "musashisfit"},
-        "musashi_hat": {"value": 25, "names": ["musashi hat", "musashihat", "mhat"], "emoji": "musashishat"},
-        "law_cape": {"value": 90, "names": ["law cape", "lawcape", "lcape"], "emoji": "law"},
-        "law_fit": {"value": 50, "names": ["law fit", "lawfit", "lfit", "law outfit", "lawoutfit"], "emoji": "law"},
-        "law_hat": {"value": 50, "names": ["law hat", "lawhat", "lhat"], "emoji": "law"},
-        "domingo_cape": {"value": 90, "names": ["domingo cape", "domingocape", "dcape"], "emoji": "Donmingo"},
-        "domingo_outfit": {"value": 25, "names": ["domingo outfit", "domingooutfit", "dfit", "domingo fit", "domingofit"], "emoji": "Donmingo"},
-        "domingo_shades": {"value": 25, "names": ["domingo shades", "domingoshades", "dshades", "domingo"], "emoji": "Donmingo"},
-        "moria_outfit": {"value": 25, "names": ["moria outfit", "moriaoutfit", "mfit", "moria fit", "moriafit", "moria"], "emoji": "Moria"},
-        "moria_hat": {"value": 50, "names": ["moria hat", "moriahat"], "emoji": "Moria"},
-        "moria_necklace": {"value": 100, "names": ["moria necklace", "morianecklace", "mneck", "morianeck", "necklace"], "emoji": "morianecklace"},
-        "moria_batswarm": {"value": 600, "names": ["moria batswarm", "moriabatswarm", "batswarm", "bats", "swarm"], "emoji": "batswarm"},
-        "ryuma_scarf": {"value": 150, "names": ["ryuma scarf", "ryumascarf", "rscarf", "ryuma"], "emoji": "ryumascarf"},
-        "tomoe_drums": {"value": 25, "names": ["tomoes drums", "tomoesdrums", "drums", "tomoe drums", "tomoedrums", "tomoe"], "emoji": "drums"},
-        "radiant_shades": {"value": 300, "names": ["radiant admiral shades", "radiantadmiralshades", "radiant shades", "radiantshades", "rad shades", "radshades", "admiral shades", "admiralshades"], "emoji": "GoldenShades"},
-        "radiant_outfit": {"value": 150, "names": ["radiant admiral outfit", "radiantadmiraloutfit", "radiant outfit", "radiantoutfit", "rad outfit", "rad fit", "radfit", "admiral outfit", "admiraloutfit", "admiral fit", "admiralfit"], "emoji": "GoldenShades"},
-        "radiant_cape": {"value": 200, "names": ["radiant admiral cape", "radiantadmiralcape", "radiant cape", "radiantcape", "rad cape", "radcape", "admiral cape", "admiralcape"], "emoji": "marinecape"},
-        "roger_hat": {"value": 150, "names": ["roger hat", "rogerhat", "rhat"], "emoji": "Roger"},
-        "roger_outfit": {"value": 700, "names": ["roger outfit", "rogeroutfit", "roger fit", "rogerfit", "rfit", "roger"], "emoji": "outfit"},
-        "hawk_hat": {"value": 100, "names": ["hawk hat", "hawkhat", "hhat"], "emoji": "HawkEye"},
-        "hawk_outfit": {"value": 300, "names": ["hawk outfit", "hawkoutfit", "hawk fit", "hawkfit", "hawk", "hawk eye", "hawkeye"], "emoji": "HawkEye"},
-        "sea_serpent_core": {"value": 200, "names": ["sea serpents core", "seaserpentscore", "serpent core", "serpentcore", "sb core", "sbcore", "sbc", "sscore", "serpent", "sea serpent core", "seaserpentcore"], "emoji": "sbcore"},
-        "kraken_core": {"value": 100, "names": ["krakens core", "krakenscore", "kraken core", "krakencore", "kk core", "kkc", "kcore"], "emoji": "kkcore"},
-        "kraken_armor": {"value": 600, "names": ["kraken armor", "krakenarmor", "karmor", "ka", "kraken"], "emoji": "armor"},
-        "kraken_gs": {"value": 600, "names": ["kraken great sword", "krakengreatsword", "kraken gs", "kgs", "krakengs", "kraken sword", "krakensword"], "emoji": "armor"},
-        "sb_mask": {"value": 100, "names": ["sb mask", "sbmask", "sbm", "mask"], "emoji": "sunken"},
-        "sb_armor": {"value": 50, "names": ["sb armor", "sbarmor", "sba"], "emoji": "sunken"},
-        "megalodon_tooth": {"value": 50, "names": ["megalodon tooth", "megalodontooth", "meg tooth", "megtooth", "mtooth", "tooth", "meg"], "emoji": "Megalodon_Helmet"},
-        "megalodon_armor": {"value": 150, "names": ["megalodon armor", "megalodonarmor", "meg armor", "megarmor", "marmor"], "emoji": "Megalodon_Armor"},
-        "megalodon_helmet": {"value": 400, "names": ["megalodon helmet", "megalodonhelmet", "meg helmet", "meghelmet", "mhelm", "meghelm", "meg helm"], "emoji": "Megalodon_Helmet"},
-        "fruit_rod": {"value": 23000, "names": ["fruit rod", "fruitrod", "frod", "dfrod", "fr", "rod", "fishing rod", "fishingrod"], "emoji": "FruitFishingRod"},
-        "sunken_helmet": {"value": 100, "names": ["sunken helmet", "sunkenhelmet", "shelm", "sunk helm", "sunkhelm", "sunken helm"], "emoji": "sunken"},
-        "sunken_armor": {"value": 150, "names": ["sunken armor", "sunkenarmor", "sarmor", "sunk armor", "sunkarmor"], "emoji": "sunken"},
-        "sunken_anchor": {"value": 400, "names": ["sunken anchor", "sunkenanchor", "sanchor", "anchor", "sunkanchor", "sunken"], "emoji": "sunkenanchor"},
-        "boneshiver": {"value": 400, "names": ["boneshiver", "bone", "bs", "shiver"], "emoji": "Boneshiver"},
-        "swordfish_rapier": {"value": 500, "names": ["swordfish rapier", "swordfishrapier", "srapier", "sfrapier", "rapier", "swordfish"], "emoji": "swordfishrapier"},
-        "legendary_fish_bait": {"value": 3500, "names": ["legendary fish bait", "legendaryfishbait", "leg fish bait", "legfishbait", "fish bait", "fishbait", "lfb", "bait", "leg bait", "legbait"], "emoji": "Fishbait"},
-        "baal_head": {"value": 1500, "names": ["baal head", "baalhead"], "emoji": "baalhead"},
-        "baal_cape": {"value": 90, "names": ["baal cape", "baalcape", "bcape"], "emoji": "baalcape"},
-        "hollow_fang": {"value": 800, "names": ["hollow fang", "hollowfang", "hfang", "fang"], "emoji": "HollowFang"},
-        "jester_box": {"value": 600, "names": ["jester box", "jesterbox", "jbox", "box"], "emoji": "jesterbox"},
-        "jester_hat": {"value": 500, "names": ["jester hat", "jesterhat", "jhat"], "emoji": "jhat"},
-        "jester_scythe": {"value": 600, "names": ["jesters scythe", "jestersscythe", "jester scythe", "jesterscythe", "jscythe"], "emoji": "jscythe"},
-        "jester_outfit": {"value": 65000, "names": ["jesters outfit", "jestersoutfit", "jester outfit", "jesteroutfit", "jester fit", "jesterfit", "jfit", "jester"], "emoji": "jfit"},
-        "hollow_gs": {"value": 75, "names": ["hollow gs", "hollowgs", "hgs", "hollow great sword", "hollowgreatsword", "hollow sword", "hollowsword"], "emoji": "hollowgreatsword"},
-        "hollow_halberd": {"value": 150, "names": ["hollow halberd", "hollowhalberd", "hhalb", "hollowhalb", "halberd"], "emoji": "hollowhallberd"},
-        "resurrected_baal_head": {"value": 1000, "names": ["resurrected baal head", "resurrectedbaalhead", "res baal head", "resbaalhead", "rbhead", "res head", "reshead"], "emoji": "Ressurectedbaalshead"},
-        "resurrected_baal_fit": {"value": 300, "names": ["resurrected baal fit", "resurrectedbaalfit", "res baal fit", "resbaalfit", "rbfit", "res fit", "resfit"], "emoji": "ResurrectedBaalfit"},
-        "true_baal_guard": {"value": 400, "names": ["true baal guard", "truebaalguard", "tbg", "baal guard", "baalguard", "guard"], "emoji": "Truebaalsguard"},
-        "half_shroud": {"value": 1200, "names": ["half shroud", "halfshroud", "hshroud", "hs", "shroud"], "emoji": "halfshroud"},
-        "hollow_wender": {"value": 3200, "names": ["hollow wender", "hollowwender", "hwender", "hw"], "emoji": "hollowwender"},
-        "blood_scythe": {"value": 200, "names": ["blood scythe", "bloodscythe", "bscythe", "scythe"], "emoji": "bloodscythe"},
-        "nightfall_shroud": {"value": 5500, "names": ["nightfall shroud", "nightfallshroud", "nshroud", "ns", "nightfall"], "emoji": "nightfallshroud"},
-        "endbringer_set": {"value": 1400, "names": ["endbringer set", "endbringerset", "eb set", "ebset"], "emoji": "Endbringer"},
-        "endbringer_armor": {"value": 700, "names": ["endbringer armor", "endbringerarmor", "eb armor", "ebarmor", "eba", "endbringer"], "emoji": "Endbringer"},
-        "endbringer_wings": {"value": 700, "names": ["endbringer wings", "endbringerwings", "eb wings", "ebwings", "wings"], "emoji": "wings"},
-        "flowers": {"value": 13000, "names": ["flowers", "flower"], "emoji": "flowers"},
-        "flamingo_boat": {"value": 2500, "names": ["flamingo boat", "flamingoboat", "flamingo", "fboat"], "emoji": "flamingoboat"},
-        "cupid_queen_wings": {"value": 1700, "names": ["cupid queen wings", "cupidqueenwings", "cq wings", "cqwings", "cupidwings", "cupid wings", "queen wings", "queenwings"], "emoji": "cupid"},
-        "cupid_dress": {"value": 2500, "names": ["cupid dress", "cupiddress", "cdress", "dress"], "emoji": "cupid"},
-        "cupid_wand": {"value": 600, "names": ["cupid wand", "cupidwand", "cwand", "wand"], "emoji": "cupidwand"},
-        "cupid_battleaxe": {"value": 100, "names": ["cupid battleaxe", "cupidbattleaxe", "cupid axe", "cupidaxe", "battleaxe", "axe"], "emoji": "cupidbattleaxe"},
-        "inferno_rocket_blade": {"value": 700, "names": ["inferno rocket blade", "infernorocketblade", "rocket blade", "rocketblade", "irb", "rb", "inferno blade", "infernoblade"], "emoji": "rocketblade"},
-        "firework_lancer": {"value": 500, "names": ["firework lancer", "fireworklancer", "fwl", "fw lancer", "fwlancer", "lancer"], "emoji": "Fwork_lancer"},
-        "cupid_headband": {"value": 150, "names": ["cupid headband", "cupidheadband", "cheadband", "headband"], "emoji": "cupidheadband"},
-        "cupid_boat": {"value": 50, "names": ["cupid boat", "cupidboat", "cboat"], "emoji": "bow"},
-        "cupid_bow": {"value": 100, "names": ["cupids bow", "cupidsbow", "cupid bow", "cupidbow", "bow"], "emoji": "bow"},
-        "blessed_cupid_bow": {"value": 2500, "names": ["blessed cupid bow", "blessedcupidbow", "bcbow", "blessed bow", "blessedbow"], "emoji": "Blessed"},
-        "exalted_cupid_outfit": {"value": 300, "names": ["exalted cupid queen outfit", "exaltedcupidqueenoutfit", "exalted cupid outfit", "exaltedcupidoutfit", "eco", "exalted outfit", "exaltedoutfit", "exalted"], "emoji": "Exalted"},
-        "blessed_exalted_outfit": {"value": 2000, "names": ["blessed exalted cupid queen outfit", "blessedexaltedcupidqueenoutfit", "blessed exalted outfit", "blessedexaltedoutfit", "beco", "blessed outfit", "blessedoutfit"], "emoji": "Blessed"},
-        "cupid_vanguard_outfit": {"value": 100, "names": ["cupid vanguard outfit", "cupidvanguardoutfit", "cvo", "vanguard outfit", "vanguardoutfit", "vanguard"], "emoji": "cupid"},
-        "blessed_cupid_vanguard": {"value": 400, "names": ["blessed cupid vanguard outfit", "blessedcupidvanguardoutfit", "bcvo", "blessed vanguard", "blessedvanguard"], "emoji": "Blessed"},
-        "cupid_scarf": {"value": 300, "names": ["cupid queens scarf", "cupidqueensscarf", "cupid scarf", "cupidscarf", "cscarf", "queen scarf", "queenscarf"], "emoji": "scarf"},
-        "blessed_scarf": {"value": 2750, "names": ["blessed scarf", "blessedscarf", "bscarf"], "emoji": "scarf"},
-        "exalted_wings": {"value": 4000, "names": ["exalted cupid queens wings", "exaltedcupidqueenswings", "exalted wings", "exaltedwings", "ecqw", "ew", "exalted queen wings", "exaltedqueenwings"], "emoji": "Exalted"},
-        "blessed_exalted_wings": {"value": 22000, "names": ["blessed exalted cupid queens wings", "blessedexaltedcupidqueenswings", "blessed exalted wings", "blessedexaltedwings", "becqw", "bew", "blessed wings", "blessedwings"], "emoji": "Blessed"},
-        "elo_hammer": {"value": 1200, "names": ["elo hammer", "elohammer", "elo", "eh"], "emoji": "elohammer"},
-        "blo_hammer": {"value": 1500, "names": ["blo crimson sledgehammer", "blocrimsonsledgehammer", "blo hammer", "blohammer", "bh", "blo sledge", "blosledge", "sledgehammer", "sledge", "crimson sledge", "crimsonsledge"], "emoji": "blo_hammer_crimson"},
-        "kumakawa_head": {"value": 1400, "names": ["kumakawa head", "kumakawahead", "kuma head", "kumahead", "kumakawa", "kuma"], "emoji": "kumakawa_head"},
-        "usamii_head": {"value": 800, "names": ["usamii head", "usamiihead", "usamii"], "emoji": "usamii_head"},
-        "bunyo": {"value": 13000, "names": ["bunyo"], "emoji": "bunyo"},
-        "yukio": {"value": 20000, "names": ["yukio", "bunny"], "emoji": "yukiothebunny"},
-        "rework_rocket_launcher": {"value": 300, "names": ["rework rocket launcher", "reworkrocketlauncher", "rrl", "rocket launcher", "rocketlauncher", "launcher"], "emoji": "fireworklauncher"},
-        "firework_daggers": {"value": 400, "names": ["firework daggers", "fireworkdaggers", "fwd", "fw daggers", "fwdaggers", "daggers", "dagger"], "emoji": "fireworkdaggers"},
-        "supreme_gift_armor": {"value": 100, "names": ["supreme gift box armor", "supremegiftboxarmor", "supreme armor", "supremearmor", "sgba", "gift armor", "giftarmor"], "emoji": "supremegiftboxarmor"},
-        "supreme_gift_helmet": {"value": 100, "names": ["supreme gift box helmet", "supremegiftboxhelmet", "supreme helmet", "supremehelmet", "sgbh", "supremehelm", "gift helmet", "gifthelmet"], "emoji": "supremegiftboxhelmet"},
-        "mega_pow": {"value": 10000, "names": ["mega pow", "megapow", "mpow", "mp", "pow"], "emoji": "mega_pow"},
-        "candy_cane": {"value": 140000, "names": ["candy cane", "cc", "candycane", "cane stick"], "emoji": "cc"},
-        "santa_hat": {"value": 3000, "names": ["santa hat", "santahat", "santa"], "emoji": "santahat"},
-        "iceborn_rapier": {"value": 100, "names": ["iceborn rapier", "icebornrapier", "irapier", "ice rapier", "icerapier"], "emoji": "iceborn_rapier"},
-        "iceborn_blade": {"value": 100, "names": ["iceborn blade", "icebornblade", "iblade", "ib", "ice blade", "iceblade"], "emoji": "icebornblade"},
-        "iceborn_dagger": {"value": 100, "names": ["iceborn dagger", "iceborndagger", "idagger", "ice dagger", "icedagger"], "emoji": "iceborn_dagger"},
-        "iceborn_gunblade": {"value": 100, "names": ["iceborn gunblade", "iceborngunblade", "igunblade", "igb", "ice gunblade", "icegunblade", "gunblade"], "emoji": "iceborn_gunblade"},
-        "iceborn_katana": {"value": 100, "names": ["iceborn katana", "icebornkatana", "ikatana", "ik", "ice katana", "icekatana", "katana"], "emoji": "icebornkatana"},
-        "festival_lancer": {"value": 800, "names": ["festival lancer", "festivallancer", "flancer", "fl", "festlancer", "fest lancer"], "emoji": "FestivalLance"},
-        "festival_shield": {"value": 1000, "names": ["festival shield", "festivalshield", "fshield", "festshield", "fest shield", "shield"], "emoji": "festivalshield"},
-        "stark_guns": {"value": 1000, "names": ["stark guns", "starkguns", "stark", "sg", "guns"], "emoji": "Starkguns"},
-        "coyote_outfit": {"value": 4500, "names": ["coyote outfit", "coyoteoutfit", "coyote fit", "coyotefit", "coyote"], "emoji": "coyotefit"},
-        "world_ender": {"value": 15000, "names": ["world ender", "worldender", "wender", "we", "ender"], "emoji": "worldender"},
-        "isoh": {"value": 2500, "names": ["inverted spear of heaven", "invertedspearofheaven", "isoh", "spear of heaven", "spearofheaven", "spear", "heaven spear", "heavenspear"], "emoji": "isoh"},
-        "toji_outfit": {"value": 700, "names": ["toji outfit", "tojioutfit", "toji fit", "tojifit", "toji"], "emoji": "TojiOutfit"},
-        "black_bull": {"value": 600, "names": ["black bull", "blackbull", "bb", "bull"], "emoji": "black_bull_outfit"},
-        "golden_haori": {"value": 700, "names": ["golden haori", "goldenhaori", "ghaori", "gold haori", "goldhaori", "haori"], "emoji": "zoranas_haori"},
-        "tentails": {"value": 800, "names": ["tentails", "tt", "ten tails", "tails"], "emoji": "Tentails"},
-        "snoozy_neko": {"value": 4500, "names": ["snoozy neko", "snoozyneko", "sneko", "neko", "snoozy", "cat"], "emoji": "Snoozy_Neko"},
-        "timerift_capsule": {"value": 12500, "names": ["timerift capsule", "timeriftcapsule", "timerift", "trc", "tr", "time rift", "capsule", "rift"], "emoji": "TimeRift_Capsule"},
-        "hover_pod": {"value": 7000, "names": ["hover pod", "hoverpod", "hp", "pod"], "emoji": "hover_pod"},
-        "clown_wig": {"value": 1500, "names": ["clown wig", "clownwig", "clown", "cw", "wig"], "emoji": "clown_wig"},
-        "troll_face": {"value": 4000, "names": ["troll face", "trollface", "troll", "tf", "face"], "emoji": "troll_face"},
-        "banana_car": {"value": 1500, "names": ["banana car", "bananacar", "banana", "bcar", "car"], "emoji": "epic_banana"},
-        "qwings_blue": {"value": 15000, "names": ["qwings blue", "qwingsblue", "blue qwings", "blueqwings", "bqw", "blue wings", "bluewings"], "emoji": "Blue"},
-        "qwings_gold": {"value": 42000, "names": ["qwings gold", "qwingsgold", "gold qwings", "goldqwings", "golden qwings", "goldenqwings", "gqw", "gold wings", "goldwings"], "emoji": "golden"},
-        "ice_valk": {"value": 40000, "names": ["icevalk", "ice valk", "iv", "icevalkerie", "ice valkyrie", "icevalkyrie"], "emoji": "ice_valk"},
-        "violet_valk": {"value": 40000, "names": ["violet valk", "violetvalk", "vv", "violet valkyrie", "violetvalkyrie"], "emoji": "violet_valk"},
-        "dominus": {"value": 200000, "names": ["dominus", "dom"], "emoji": "Dominus_Empyreus"},
-        "odm_rod": {"value": 1800, "names": ["odm rod", "odmrod", "odm", "odmr"], "emoji": "ODMrod"},
-        "titan_aura": {"value": 55000, "names": ["titan aura", "titanaura", "titan", "ta", "aura"], "emoji": "TitanShifterAura"},
-        "anomalized_mega_pow": {"value": 100000, "names": ["anomalized mega pow", "anomalizedmegapow", "anomalized pow", "anomalizedpow", "apow", "amp", "anomalized", "anom pow", "anompow", "anom"], "emoji": "anomalizedMega_pow"},
-        "prestige_world_ender": {"value": 390000, "names": ["prestige world ender", "prestigeworldender", "prestige wender", "prestigewender", "pwender", "pwe", "pender"], "emoji": "prestigewender"},
-        "prestige_bag": {"value": 160000, "names": ["prestige bag", "prestigebag", "pbag", "pb"], "emoji": "pbag"},
-        "prestige_rocket_launcher": {"value": 50000, "names": ["prestige firework rocket launcher", "prestigefireworkrocketlauncher", "prestige rocket launcher", "prestigerocketlauncher", "pfrl", "prl", "prestigelauncher", "plauncher", "prestige launcher"], "emoji": "pfrl"},
-        "prestige_dagger": {"value": 160000, "names": ["prestige firework dagger", "prestigefireworkdagger", "prestige dagger", "prestigedagger", "pfd", "pdagger"], "emoji": "pfd"},
-        "prestige_rocket_blade": {"value": 300000, "names": ["prestige inferno rocket blade", "prestigeinfernorocketblade", "prestige rocket blade", "prestigerocketblade", "pirb", "prb", "prestigeblade", "pblade", "prestige blade"], "emoji": "PIRB"},
-        "prestige_lancer": {"value": 420000, "names": ["prestige firework lancer", "prestigefireworklancer", "prestige lancer", "prestigelancer", "pfl", "plancer"], "emoji": "PFL"},
-        "prestige_candy_cane": {"value": 750000, "names": ["prestige candy cane", "prestigecandycane", "pcc", "prestigecc", "prestige cc", "pcane"], "emoji": "PCC"},
-        "iceborn_candy_cane": {"value": 155000, "names": ["iceborn candy cane", "iceborncandycane", "iceborn cc", "iceborncc", "icc", "ice cc", "icecc", "ice cane", "icecane"], "emoji": "IcebornCC"},
-        "black_valk": {"value": 40000, "names": ["black valk", "blackvalk", "bvalk", "bv", "black valkyrie", "blackvalkyrie"], "emoji": "black_valk"},
-        "emerald_valk": {"value": 40000, "names": ["emerald valk", "emeraldvalk", "evalk", "ev", "emerald valkyrie", "emeraldvalkyrie"], "emoji": "Emerald_valk"},
-        "sparkle_valk": {"value": 40000, "names": ["sparkle valk", "sparklevalk", "svalk", "sparkle valkyrie", "sparklevalkyrie", "sparkle"], "emoji": "sparkle_valk"},
-        "blue_valk": {"value": 40000, "names": ["blue valk", "bluevalk"], "emoji": "blue_valk"},
-        "grinch_hat": {"value": 500, "names": ["grinch hat", "grinchhat"], "emoji": "Grinch_hat"},
-        "grinch_outfit": {"value": 500, "names": ["grinch outfit", "grinchoutfit", "grinchfit", "grinch fit", "grinch"], "emoji": "Grinch_outfit"},
-        "elf_hat": {"value": 100, "names": ["elf hat", "elfhat"], "emoji": "newElfhat"},
-        "elf_outfit": {"value": 100, "names": ["elf outfit", "elfoutfit", "elffit", "elf fit", "elf"], "emoji": "Happy_elf_oitfit"},
-        "nutcracker_outfit": {"value": 200, "names": ["nutcracker outfit", "nutcrackeroutfit", "nutcracker fit", "nutcrackerfit", "nutcracker", "nut"], "emoji": "Nutcracker_Outfit"},
-        "drippy_santa_outfit": {"value": 1000, "names": ["drippy santa outfit", "drippysantaoutfit", "drippy santa fit", "drippysantafit", "drippy santa", "drippysanta", "drippy"], "emoji": "Drippy_Santa_outfit"},
-        "candy_cane_outfit": {"value": 800, "names": ["candy cane outfit", "candycaneoutfit", "cc outfit", "ccoutfit", "cc fit", "ccfit", "cane outfit", "caneoutfit", "cane fit", "canefit"], "emoji": "Candy_Cane_outfit"},
-        "napoleon": {"value": 15000, "names": ["napoleon outfit", "napoleonoutfit", "napoleon fit", "napoleonfit", "napoleon"], "emoji": "Napoleon"}
+        "ito": {
+            "value": 80,
+            "names": [
+                "ito"
+            ],
+            "emoji": "Ito"
+        },
+        "paw": {
+            "value": 200,
+            "names": [
+                "paw"
+            ],
+            "emoji": "Paw"
+        },
+        "kage": {
+            "value": 50,
+            "names": [
+                "kage"
+            ],
+            "emoji": "kage"
+        },
+        "gura": {
+            "value": 600,
+            "names": [
+                "gura"
+            ],
+            "emoji": "Gura"
+        },
+        "goro": {
+            "value": 100,
+            "names": [
+                "goro"
+            ],
+            "emoji": "Goro"
+        },
+        "yami": {
+            "value": 50,
+            "names": [
+                "yami"
+            ],
+            "emoji": "yami"
+        },
+        "zushi": {
+            "value": 150,
+            "names": [
+                "zushi"
+            ],
+            "emoji": "Zushi"
+        },
+        "hie": {
+            "value": 150,
+            "names": [
+                "hie"
+            ],
+            "emoji": "Hie"
+        },
+        "suna": {
+            "value": 400,
+            "names": [
+                "suna"
+            ],
+            "emoji": "Suna"
+        },
+        "yuki": {
+            "value": 100,
+            "names": [
+                "yuki"
+            ],
+            "emoji": "yuki"
+        },
+        "mera": {
+            "value": 200,
+            "names": [
+                "mera"
+            ],
+            "emoji": "Mera"
+        },
+        "magu": {
+            "value": 400,
+            "names": [
+                "magu"
+            ],
+            "emoji": "Magu"
+        },
+        "gold": {
+            "value": 100,
+            "names": [
+                "gold"
+            ],
+            "emoji": "gold"
+        },
+        "smoke": {
+            "value": 100,
+            "names": [
+                "smoke"
+            ],
+            "emoji": "smoke"
+        },
+        "pika": {
+            "value": 1400,
+            "names": [
+                "pika"
+            ],
+            "emoji": "Pika"
+        },
+        "ope": {
+            "value": 3000,
+            "names": [
+                "ope"
+            ],
+            "emoji": "opeope"
+        },
+        "tori": {
+            "value": 3000,
+            "names": [
+                "tori",
+                "phoenix"
+            ],
+            "emoji": "Tori"
+        },
+        "buddha": {
+            "value": 1200,
+            "names": [
+                "buddha",
+                "bud"
+            ],
+            "emoji": "Buddha"
+        },
+        "ptero": {
+            "value": 4800,
+            "names": [
+                "ptero",
+                "pteranodon"
+            ],
+            "emoji": "Ptero"
+        },
+        "venom": {
+            "value": 4500,
+            "names": [
+                "venom",
+                "ven"
+            ],
+            "emoji": "venom"
+        },
+        "mochi": {
+            "value": 5600,
+            "names": [
+                "mochi"
+            ],
+            "emoji": "Mochi"
+        },
+        "soul": {
+            "value": 8000,
+            "names": [
+                "soul"
+            ],
+            "emoji": "Soul"
+        },
+        "dragon": {
+            "value": 26000,
+            "names": [
+                "dragon",
+                "drag"
+            ],
+            "emoji": "Dragon"
+        },
+        "token": {
+            "value": 50,
+            "names": [
+                "token",
+                "tok"
+            ],
+            "emoji": "SpecialTailorToken"
+        },
+        "rare_chest": {
+            "value": 80,
+            "names": [
+                "rare chest",
+                "rc"
+            ],
+            "emoji": "RareChest"
+        },
+        "legendary_chest": {
+            "value": 600,
+            "names": [
+                "legendary chest",
+                "lc",
+                "leg chest"
+            ],
+            "emoji": "LegChest"
+        },
+        "mythical_chest": {
+            "value": 9000,
+            "names": [
+                "mythical chest",
+                "mc",
+                "myth chest"
+            ],
+            "emoji": "mythicalchest"
+        },
+        "all_seeing_eye": {
+            "value": 32000,
+            "names": [
+                "all seeing eye",
+                "ase",
+                "eye"
+            ],
+            "emoji": "AllSeeingEye"
+        },
+        "chromatic_ase": {
+            "value": 120000,
+            "names": [
+                "chromatic all seeing eye",
+                "chroma ase",
+                "case",
+                "chrome ase",
+                "crase",
+                "chromatic ase"
+            ],
+            "emoji": "Chroma_AllSeeingEye"
+        },
+        "blo_ase": {
+            "value": 41000,
+            "names": [
+                "blo ase",
+                "bloase",
+                "bloody ase"
+            ],
+            "emoji": "blo_ase"
+        },
+        "holly_ase": {
+            "value": 34000,
+            "names": [
+                "holly ase",
+                "hase",
+                "hollyase"
+            ],
+            "emoji": "hollyase"
+        },
+        "all_seeing_baal": {
+            "value": 36000,
+            "names": [
+                "all seeing baal",
+                "asb",
+                "baal ase",
+                "base"
+            ],
+            "emoji": "AllSeeingBaal"
+        },
+        "sp_reset": {
+            "value": 5,
+            "names": [
+                "sp reset",
+                "spr",
+                "reset"
+            ],
+            "emoji": "SPReset"
+        },
+        "dark_root": {
+            "value": 10,
+            "names": [
+                "dark root",
+                "rt",
+                "root",
+                "dr",
+                "darkroot"
+            ],
+            "emoji": "darkroot"
+        },
+        "spirit_color": {
+            "value": 150,
+            "names": [
+                "spirit color",
+                "sc",
+                "spirit",
+                "color"
+            ],
+            "emoji": "spiritcolor"
+        },
+        "spare_fruit_bag": {
+            "value": 100,
+            "names": [
+                "spare fruit bag",
+                "fruit bag",
+                "sfb",
+                "fb",
+                "bag"
+            ],
+            "emoji": "SpareFruitBag"
+        },
+        "thriller_ship": {
+            "value": 300,
+            "names": [
+                "thriller ship",
+                "thriller",
+                "ts",
+                "ship"
+            ],
+            "emoji": "thrilledship"
+        },
+        "hoverboard": {
+            "value": 500,
+            "names": [
+                "hoverboard",
+                "hb",
+                "hover",
+                "board"
+            ],
+            "emoji": "hoverboard"
+        },
+        "coffin_boat": {
+            "value": 600,
+            "names": [
+                "coffin boat",
+                "coffin",
+                "cb"
+            ],
+            "emoji": "CoffinBoat"
+        },
+        "striker_boat": {
+            "value": 600,
+            "names": [
+                "striker boat",
+                "striker"
+            ],
+            "emoji": "Striker"
+        },
+        "golden_hammer": {
+            "value": 75,
+            "names": [
+                "golden hammer",
+                "goldenhammer",
+                "ghammer",
+                "gh",
+                "gold hammer",
+                "hammer"
+            ],
+            "emoji": "goldhammer"
+        },
+        "df_journal": {
+            "value": 150,
+            "names": [
+                "df journal",
+                "dfjournal",
+                "dfj",
+                "journal"
+            ],
+            "emoji": "dfjournal"
+        },
+        "karoo": {
+            "value": 75,
+            "names": [
+                "karoo",
+                "duck"
+            ],
+            "emoji": "karoo"
+        },
+        "soul_cleaver": {
+            "value": 15000,
+            "names": [
+                "soul cleaver",
+                "soulcleaver",
+                "scleaver",
+                "sc cleaver",
+                "cleaver"
+            ],
+            "emoji": "SoulCane"
+        },
+        "jitte": {
+            "value": 200,
+            "names": [
+                "jitte"
+            ],
+            "emoji": "triden"
+        },
+        "golden_hook": {
+            "value": 50,
+            "names": [
+                "golden hook",
+                "goldenhook",
+                "ghook",
+                "gold hook",
+                "hook"
+            ],
+            "emoji": "ghook"
+        },
+        "bisento": {
+            "value": 50,
+            "names": [
+                "bisento",
+                "bis"
+            ],
+            "emoji": "bisento"
+        },
+        "gravity_cane": {
+            "value": 50,
+            "names": [
+                "gravity cane",
+                "gravitycane",
+                "gcane",
+                "grav cane",
+                "gravcane",
+                "grav"
+            ],
+            "emoji": "gravityblade"
+        },
+        "moria_scissors": {
+            "value": 50,
+            "names": [
+                "morias scissors",
+                "moria scissors",
+                "moriascissors",
+                "scissors",
+                "mscissors"
+            ],
+            "emoji": "moriascissors"
+        },
+        "borj_gauntlets": {
+            "value": 150,
+            "names": [
+                "borj gauntlets",
+                "borjgauntlets",
+                "borj gauntlet",
+                "borjgauntlet",
+                "borj",
+                "bg",
+                "gauntlets",
+                "gauntlet"
+            ],
+            "emoji": "BorjGauntlet"
+        },
+        "shusui": {
+            "value": 100,
+            "names": [
+                "shusui",
+                "shu"
+            ],
+            "emoji": "Shusui"
+        },
+        "crab_cutlass": {
+            "value": 50,
+            "names": [
+                "crab cutlass",
+                "crabcutlass",
+                "crab",
+                "cutlass",
+                "cc cutlass"
+            ],
+            "emoji": "crabcutlass"
+        },
+        "golden_pole": {
+            "value": 50,
+            "names": [
+                "golden pole",
+                "goldenpole",
+                "gpole",
+                "gold pole",
+                "goldpole",
+                "pole"
+            ],
+            "emoji": "goldenpole"
+        },
+        "neptune_trident": {
+            "value": 100,
+            "names": [
+                "neptunes trident",
+                "neptunestrident",
+                "neptune trident",
+                "neptunetrident",
+                "neptune",
+                "nep trident",
+                "neptrident",
+                "nep",
+                "trident"
+            ],
+            "emoji": "triden"
+        },
+        "black_pitchfork": {
+            "value": 50,
+            "names": [
+                "black pitchfork",
+                "blackpitchfork",
+                "pitchfork",
+                "bpf",
+                "pf",
+                "fork"
+            ],
+            "emoji": "pitchfork"
+        },
+        "vera_whip": {
+            "value": 50,
+            "names": [
+                "veras whip",
+                "veraswhip",
+                "vera whip",
+                "verawhip",
+                "whip",
+                "vwhip",
+                "vera"
+            ],
+            "emoji": "Veraswhip"
+        },
+        "raiui": {
+            "value": 50,
+            "names": [
+                "raiui"
+            ],
+            "emoji": "Raiui"
+        },
+        "soul_cane": {
+            "value": 200,
+            "names": [
+                "soul cane",
+                "soulcane",
+                "scane",
+                "cane"
+            ],
+            "emoji": "SoulCane"
+        },
+        "pipe": {
+            "value": 150,
+            "names": [
+                "pipe"
+            ],
+            "emoji": "Vraels_pipe"
+        },
+        "flower_sword": {
+            "value": 1400,
+            "names": [
+                "flower sword",
+                "flowersword",
+                "fs",
+                "fsword"
+            ],
+            "emoji": "flower_sword"
+        },
+        "ace": {
+            "value": 1000,
+            "names": [
+                "ace"
+            ],
+            "emoji": "ace"
+        },
+        "yoru": {
+            "value": 4200,
+            "names": [
+                "yoru",
+                "darkblade",
+                "db",
+                "dark blade"
+            ],
+            "emoji": "darkblade"
+        },
+        "kikoku": {
+            "value": 9000,
+            "names": [
+                "kikoku",
+                "koku",
+                "kiko",
+                "kk",
+                "law sword",
+                "lawsword"
+            ],
+            "emoji": "kikoku"
+        },
+        "mochi_trident": {
+            "value": 600,
+            "names": [
+                "mochi trident",
+                "mochitrident",
+                "mt",
+                "mtrident",
+                "mochi tri",
+                "mochitri"
+            ],
+            "emoji": "Trident"
+        },
+        "helix_skewer": {
+            "value": 100,
+            "names": [
+                "helix skewer",
+                "helixskewer",
+                "helix",
+                "hskewer",
+                "skewer"
+            ],
+            "emoji": "soulkingviolin"
+        },
+        "violin": {
+            "value": 100,
+            "names": [
+                "violin"
+            ],
+            "emoji": "soulkingviolin"
+        },
+        "soul_king_guitar": {
+            "value": 1800,
+            "names": [
+                "soul king guitar",
+                "soulkingguitar",
+                "sk guitar",
+                "skg",
+                "guitar",
+                "skguitar"
+            ],
+            "emoji": "soulkingguitar"
+        },
+        "sk_fit": {
+            "value": 75,
+            "names": [
+                "sk fit",
+                "skfit",
+                "soul king fit",
+                "soulkingfit",
+                "soul king outfit",
+                "soulkingoutfit"
+            ],
+            "emoji": "soulking"
+        },
+        "sk_hat": {
+            "value": 150,
+            "names": [
+                "sk hat",
+                "skhat",
+                "soul king hat",
+                "soulkinghat"
+            ],
+            "emoji": "soulking"
+        },
+        "sk_shades": {
+            "value": 100,
+            "names": [
+                "sk shades",
+                "skshades",
+                "soul king shades",
+                "soulkingshades",
+                "shades"
+            ],
+            "emoji": "soulking"
+        },
+        "soul_king_scarf": {
+            "value": 27000,
+            "names": [
+                "soul king scarf",
+                "soulkingscarf",
+                "sk scarf",
+                "sks",
+                "skscarf",
+                "skarf"
+            ],
+            "emoji": "soulkingscarf"
+        },
+        "musashi_karuta": {
+            "value": 25,
+            "names": [
+                "musashi karuta",
+                "musashikaruta",
+                "musashi fit",
+                "musashifit",
+                "mkaruta",
+                "musashi",
+                "karuta"
+            ],
+            "emoji": "musashisfit"
+        },
+        "musashi_hat": {
+            "value": 25,
+            "names": [
+                "musashi hat",
+                "musashihat",
+                "mhat"
+            ],
+            "emoji": "musashishat"
+        },
+        "law_cape": {
+            "value": 90,
+            "names": [
+                "law cape",
+                "lawcape",
+                "lcape"
+            ],
+            "emoji": "law"
+        },
+        "law_fit": {
+            "value": 50,
+            "names": [
+                "law fit",
+                "lawfit",
+                "lfit",
+                "law outfit",
+                "lawoutfit"
+            ],
+            "emoji": "law"
+        },
+        "law_hat": {
+            "value": 50,
+            "names": [
+                "law hat",
+                "lawhat",
+                "lhat"
+            ],
+            "emoji": "law"
+        },
+        "domingo_cape": {
+            "value": 200,
+            "names": [
+                "domingo cape",
+                "domingocape",
+                "dcape"
+            ],
+            "emoji": "Donmingo"
+        },
+        "domingo_outfit": {
+            "value": 75,
+            "names": [
+                "domingo outfit",
+                "domingooutfit",
+                "dfit",
+                "domingo fit",
+                "domingofit"
+            ],
+            "emoji": "Donmingo"
+        },
+        "domingo_shades": {
+            "value": 50,
+            "names": [
+                "domingo shades",
+                "domingoshades",
+                "dshades",
+                "domingo"
+            ],
+            "emoji": "Donmingo"
+        },
+        "moria_outfit": {
+            "value": 25,
+            "names": [
+                "moria outfit",
+                "moriaoutfit",
+                "mfit",
+                "moria fit",
+                "moriafit",
+                "moria"
+            ],
+            "emoji": "Moria"
+        },
+        "moria_hat": {
+            "value": 25,
+            "names": [
+                "moria hat",
+                "moriahat"
+            ],
+            "emoji": "Moria"
+        },
+        "moria_necklace": {
+            "value": 100,
+            "names": [
+                "moria necklace",
+                "morianecklace",
+                "mneck",
+                "morianeck",
+                "necklace"
+            ],
+            "emoji": "morianecklace"
+        },
+        "moria_batswarm": {
+            "value": 600,
+            "names": [
+                "moria batswarm",
+                "moriabatswarm",
+                "batswarm",
+                "bats",
+                "swarm"
+            ],
+            "emoji": "batswarm"
+        },
+        "ryuma_scarf": {
+            "value": 300,
+            "names": [
+                "ryuma scarf",
+                "ryumascarf",
+                "rscarf",
+                "ryuma"
+            ],
+            "emoji": "ryumascarf"
+        },
+        "tomoe_drums": {
+            "value": 500,
+            "names": [
+                "tomoes drums",
+                "tomoesdrums",
+                "drums",
+                "tomoe drums",
+                "tomoedrums",
+                "tomoe"
+            ],
+            "emoji": "drums"
+        },
+        "radiant_shades": {
+            "value": 300,
+            "names": [
+                "radiant admiral shades",
+                "radiantadmiralshades",
+                "radiant shades",
+                "radiantshades",
+                "rad shades",
+                "radshades",
+                "admiral shades",
+                "admiralshades"
+            ],
+            "emoji": "GoldenShades"
+        },
+        "radiant_outfit": {
+            "value": 150,
+            "names": [
+                "radiant admiral outfit",
+                "radiantadmiraloutfit",
+                "radiant outfit",
+                "radiantoutfit",
+                "rad outfit",
+                "rad fit",
+                "radfit",
+                "admiral outfit",
+                "admiraloutfit",
+                "admiral fit",
+                "admiralfit"
+            ],
+            "emoji": "GoldenShades"
+        },
+        "radiant_cape": {
+            "value": 200,
+            "names": [
+                "radiant admiral cape",
+                "radiantadmiralcape",
+                "radiant cape",
+                "radiantcape",
+                "rad cape",
+                "radcape",
+                "admiral cape",
+                "admiralcape"
+            ],
+            "emoji": "marinecape"
+        },
+        "roger_hat": {
+            "value": 150,
+            "names": [
+                "roger hat",
+                "rogerhat",
+                "rhat"
+            ],
+            "emoji": "Roger"
+        },
+        "roger_outfit": {
+            "value": 700,
+            "names": [
+                "roger outfit",
+                "rogeroutfit",
+                "roger fit",
+                "rogerfit",
+                "rfit",
+                "roger"
+            ],
+            "emoji": "outfit"
+        },
+        "hawk_hat": {
+            "value": 100,
+            "names": [
+                "hawk hat",
+                "hawkhat",
+                "hhat"
+            ],
+            "emoji": "HawkEye"
+        },
+        "hawk_outfit": {
+            "value": 300,
+            "names": [
+                "hawk outfit",
+                "hawkoutfit",
+                "hawk fit",
+                "hawkfit",
+                "hawk",
+                "hawk eye",
+                "hawkeye"
+            ],
+            "emoji": "HawkEye"
+        },
+        "sea_serpent_core": {
+            "value": 200,
+            "names": [
+                "sea serpents core",
+                "seaserpentscore",
+                "serpent core",
+                "serpentcore",
+                "sb core",
+                "sbcore",
+                "sbc",
+                "sscore",
+                "serpent",
+                "sea serpent core",
+                "seaserpentcore"
+            ],
+            "emoji": "sbcore"
+        },
+        "kraken_core": {
+            "value": 100,
+            "names": [
+                "krakens core",
+                "krakenscore",
+                "kraken core",
+                "krakencore",
+                "kk core",
+                "kkc",
+                "kcore"
+            ],
+            "emoji": "kkcore"
+        },
+        "kraken_armor": {
+            "value": 600,
+            "names": [
+                "kraken armor",
+                "krakenarmor",
+                "karmor",
+                "ka",
+                "kraken"
+            ],
+            "emoji": "armor"
+        },
+        "kraken_gs": {
+            "value": 600,
+            "names": [
+                "kraken great sword",
+                "krakengreatsword",
+                "kraken gs",
+                "kgs",
+                "krakengs",
+                "kraken sword",
+                "krakensword"
+            ],
+            "emoji": "armor"
+        },
+        "sb_mask": {
+            "value": 100,
+            "names": [
+                "sb mask",
+                "sbmask",
+                "sbm",
+                "mask"
+            ],
+            "emoji": "sunken"
+        },
+        "sb_armor": {
+            "value": 50,
+            "names": [
+                "sb armor",
+                "sbarmor",
+                "sba"
+            ],
+            "emoji": "sunken"
+        },
+        "megalodon_tooth": {
+            "value": 50,
+            "names": [
+                "megalodon tooth",
+                "megalodontooth",
+                "meg tooth",
+                "megtooth",
+                "mtooth",
+                "tooth",
+                "meg"
+            ],
+            "emoji": "Megalodon_Helmet"
+        },
+        "megalodon_armor": {
+            "value": 150,
+            "names": [
+                "megalodon armor",
+                "megalodonarmor",
+                "meg armor",
+                "megarmor",
+                "marmor"
+            ],
+            "emoji": "Megalodon_Armor"
+        },
+        "megalodon_helmet": {
+            "value": 400,
+            "names": [
+                "megalodon helmet",
+                "megalodonhelmet",
+                "meg helmet",
+                "meghelmet",
+                "mhelm",
+                "meghelm",
+                "meg helm"
+            ],
+            "emoji": "Megalodon_Helmet"
+        },
+        "fruit_rod": {
+            "value": 23000,
+            "names": [
+                "fruit rod",
+                "fruitrod",
+                "frod",
+                "dfrod",
+                "fr",
+                "rod",
+                "fishing rod",
+                "fishingrod"
+            ],
+            "emoji": "FruitFishingRod"
+        },
+        "sunken_helmet": {
+            "value": 500,
+            "names": [
+                "sunken helmet",
+                "sunkenhelmet",
+                "shelm",
+                "sunk helm",
+                "sunkhelm",
+                "sunken helm"
+            ],
+            "emoji": "sunken"
+        },
+        "sunken_armor": {
+            "value": 150,
+            "names": [
+                "sunken armor",
+                "sunkenarmor",
+                "sarmor",
+                "sunk armor",
+                "sunkarmor"
+            ],
+            "emoji": "sunken"
+        },
+        "sunken_anchor": {
+            "value": 400,
+            "names": [
+                "sunken anchor",
+                "sunkenanchor",
+                "sanchor",
+                "anchor",
+                "sunkanchor",
+                "sunken"
+            ],
+            "emoji": "sunkenanchor"
+        },
+        "boneshiver": {
+            "value": 400,
+            "names": [
+                "boneshiver",
+                "bone",
+                "bs",
+                "shiver"
+            ],
+            "emoji": "Boneshiver"
+        },
+        "swordfish_rapier": {
+            "value": 500,
+            "names": [
+                "swordfish rapier",
+                "swordfishrapier",
+                "srapier",
+                "sfrapier",
+                "rapier",
+                "swordfish"
+            ],
+            "emoji": "swordfishrapier"
+        },
+        "legendary_fish_bait": {
+            "value": 3500,
+            "names": [
+                "legendary fish bait",
+                "legendaryfishbait",
+                "leg fish bait",
+                "legfishbait",
+                "fish bait",
+                "fishbait",
+                "lfb",
+                "bait",
+                "leg bait",
+                "legbait"
+            ],
+            "emoji": "Fishbait"
+        },
+        "baal_head": {
+            "value": 1500,
+            "names": [
+                "baal head",
+                "baalhead"
+            ],
+            "emoji": "baalhead"
+        },
+        "baal_cape": {
+            "value": 90,
+            "names": [
+                "baal cape",
+                "baalcape",
+                "bcape"
+            ],
+            "emoji": "baalcape"
+        },
+        "hollow_fang": {
+            "value": 800,
+            "names": [
+                "hollow fang",
+                "hollowfang",
+                "hfang",
+                "fang"
+            ],
+            "emoji": "HollowFang"
+        },
+        "jester_box": {
+            "value": 600,
+            "names": [
+                "jester box",
+                "jesterbox",
+                "jbox",
+                "box"
+            ],
+            "emoji": "jesterbox"
+        },
+        "jester_hat": {
+            "value": 500,
+            "names": [
+                "jester hat",
+                "jesterhat",
+                "jhat"
+            ],
+            "emoji": "jhat"
+        },
+        "jester_scythe": {
+            "value": 600,
+            "names": [
+                "jesters scythe",
+                "jestersscythe",
+                "jester scythe",
+                "jesterscythe",
+                "jscythe"
+            ],
+            "emoji": "jscythe"
+        },
+        "jester_outfit": {
+            "value": 65000,
+            "names": [
+                "jesters outfit",
+                "jestersoutfit",
+                "jester outfit",
+                "jesteroutfit",
+                "jester fit",
+                "jesterfit",
+                "jfit",
+                "jester"
+            ],
+            "emoji": "jfit"
+        },
+        "hollow_gs": {
+            "value": 75,
+            "names": [
+                "hollow gs",
+                "hollowgs",
+                "hgs",
+                "hollow great sword",
+                "hollowgreatsword",
+                "hollow sword",
+                "hollowsword"
+            ],
+            "emoji": "hollowgreatsword"
+        },
+        "hollow_halberd": {
+            "value": 150,
+            "names": [
+                "hollow halberd",
+                "hollowhalberd",
+                "hhalb",
+                "hollowhalb",
+                "halberd"
+            ],
+            "emoji": "hollowhallberd"
+        },
+        "resurrected_baal_head": {
+            "value": 1000,
+            "names": [
+                "resurrected baal head",
+                "resurrectedbaalhead",
+                "res baal head",
+                "resbaalhead",
+                "rbhead",
+                "res head",
+                "reshead"
+            ],
+            "emoji": "Ressurectedbaalshead"
+        },
+        "resurrected_baal_fit": {
+            "value": 300,
+            "names": [
+                "resurrected baal fit",
+                "resurrectedbaalfit",
+                "res baal fit",
+                "resbaalfit",
+                "rbfit",
+                "res fit",
+                "resfit"
+            ],
+            "emoji": "ResurrectedBaalfit"
+        },
+        "true_baal_guard": {
+            "value": 400,
+            "names": [
+                "true baal guard",
+                "truebaalguard",
+                "tbg",
+                "baal guard",
+                "baalguard",
+                "guard"
+            ],
+            "emoji": "Truebaalsguard"
+        },
+        "half_shroud": {
+            "value": 1200,
+            "names": [
+                "half shroud",
+                "halfshroud",
+                "hshroud",
+                "hs",
+                "shroud"
+            ],
+            "emoji": "halfshroud"
+        },
+        "hollow_wender": {
+            "value": 3200,
+            "names": [
+                "hollow wender",
+                "hollowwender",
+                "hwender",
+                "hw"
+            ],
+            "emoji": "hollowwender"
+        },
+        "blood_scythe": {
+            "value": 200,
+            "names": [
+                "blood scythe",
+                "bloodscythe",
+                "bscythe",
+                "scythe"
+            ],
+            "emoji": "bloodscythe"
+        },
+        "nightfall_shroud": {
+            "value": 5500,
+            "names": [
+                "nightfall shroud",
+                "nightfallshroud",
+                "nshroud",
+                "ns",
+                "nightfall"
+            ],
+            "emoji": "nightfallshroud"
+        },
+        "endbringer_set": {
+            "value": 1400,
+            "names": [
+                "endbringer set",
+                "endbringerset",
+                "eb set",
+                "ebset"
+            ],
+            "emoji": "Endbringer"
+        },
+        "endbringer_armor": {
+            "value": 700,
+            "names": [
+                "endbringer armor",
+                "endbringerarmor",
+                "eb armor",
+                "ebarmor",
+                "eba",
+                "endbringer"
+            ],
+            "emoji": "Endbringer"
+        },
+        "endbringer_wings": {
+            "value": 700,
+            "names": [
+                "endbringer wings",
+                "endbringerwings",
+                "eb wings",
+                "ebwings",
+                "wings"
+            ],
+            "emoji": "wings"
+        },
+        "flowers": {
+            "value": 13000,
+            "names": [
+                "flowers",
+                "flower"
+            ],
+            "emoji": "flowers"
+        },
+        "flamingo_boat": {
+            "value": 2500,
+            "names": [
+                "flamingo boat",
+                "flamingoboat",
+                "flamingo",
+                "fboat"
+            ],
+            "emoji": "flamingoboat"
+        },
+        "cupid_queen_wings": {
+            "value": 1700,
+            "names": [
+                "cupid queen wings",
+                "cupidqueenwings",
+                "cq wings",
+                "cqwings",
+                "cupidwings",
+                "cupid wings",
+                "queen wings",
+                "queenwings"
+            ],
+            "emoji": "cupid"
+        },
+        "cupid_dress": {
+            "value": 2500,
+            "names": [
+                "cupid dress",
+                "cupiddress",
+                "cdress",
+                "dress"
+            ],
+            "emoji": "cupid"
+        },
+        "cupid_wand": {
+            "value": 600,
+            "names": [
+                "cupid wand",
+                "cupidwand",
+                "cwand",
+                "wand"
+            ],
+            "emoji": "cupidwand"
+        },
+        "cupid_battleaxe": {
+            "value": 100,
+            "names": [
+                "cupid battleaxe",
+                "cupidbattleaxe",
+                "cupid axe",
+                "cupidaxe",
+                "battleaxe",
+                "axe"
+            ],
+            "emoji": "cupidbattleaxe"
+        },
+        "inferno_rocket_blade": {
+            "value": 700,
+            "names": [
+                "inferno rocket blade",
+                "infernorocketblade",
+                "rocket blade",
+                "rocketblade",
+                "irb",
+                "rb",
+                "inferno blade",
+                "infernoblade"
+            ],
+            "emoji": "rocketblade"
+        },
+        "firework_lancer": {
+            "value": 500,
+            "names": [
+                "firework lancer",
+                "fireworklancer",
+                "fwl",
+                "fw lancer",
+                "fwlancer",
+                "lancer"
+            ],
+            "emoji": "Fwork_lancer"
+        },
+        "cupid_headband": {
+            "value": 150,
+            "names": [
+                "cupid headband",
+                "cupidheadband",
+                "cheadband",
+                "headband"
+            ],
+            "emoji": "cupidheadband"
+        },
+        "cupid_boat": {
+            "value": 50,
+            "names": [
+                "cupid boat",
+                "cupidboat",
+                "cboat"
+            ],
+            "emoji": "bow"
+        },
+        "cupid_bow": {
+            "value": 100,
+            "names": [
+                "cupids bow",
+                "cupidsbow",
+                "cupid bow",
+                "cupidbow",
+                "bow"
+            ],
+            "emoji": "bow"
+        },
+        "blessed_cupid_bow": {
+            "value": 2500,
+            "names": [
+                "blessed cupid bow",
+                "blessedcupidbow",
+                "bcbow",
+                "blessed bow",
+                "blessedbow"
+            ],
+            "emoji": "Blessed"
+        },
+        "exalted_cupid_outfit": {
+            "value": 300,
+            "names": [
+                "exalted cupid queen outfit",
+                "exaltedcupidqueenoutfit",
+                "exalted cupid outfit",
+                "exaltedcupidoutfit",
+                "eco",
+                "exalted outfit",
+                "exaltedoutfit",
+                "exalted"
+            ],
+            "emoji": "Exalted"
+        },
+        "blessed_exalted_outfit": {
+            "value": 2000,
+            "names": [
+                "blessed exalted cupid queen outfit",
+                "blessedexaltedcupidqueenoutfit",
+                "blessed exalted outfit",
+                "blessedexaltedoutfit",
+                "beco",
+                "blessed outfit",
+                "blessedoutfit"
+            ],
+            "emoji": "Blessed"
+        },
+        "cupid_vanguard_outfit": {
+            "value": 100,
+            "names": [
+                "cupid vanguard outfit",
+                "cupidvanguardoutfit",
+                "cvo",
+                "vanguard outfit",
+                "vanguardoutfit",
+                "vanguard"
+            ],
+            "emoji": "cupid"
+        },
+        "blessed_cupid_vanguard": {
+            "value": 400,
+            "names": [
+                "blessed cupid vanguard outfit",
+                "blessedcupidvanguardoutfit",
+                "bcvo",
+                "blessed vanguard",
+                "blessedvanguard"
+            ],
+            "emoji": "Blessed"
+        },
+        "cupid_scarf": {
+            "value": 300,
+            "names": [
+                "cupid queens scarf",
+                "cupidqueensscarf",
+                "cupid scarf",
+                "cupidscarf",
+                "cscarf",
+                "queen scarf",
+                "queenscarf"
+            ],
+            "emoji": "scarf"
+        },
+        "blessed_scarf": {
+            "value": 2750,
+            "names": [
+                "blessed scarf",
+                "blessedscarf",
+                "bscarf"
+            ],
+            "emoji": "scarf"
+        },
+        "exalted_wings": {
+            "value": 4000,
+            "names": [
+                "exalted cupid queens wings",
+                "exaltedcupidqueenswings",
+                "exalted wings",
+                "exaltedwings",
+                "ecqw",
+                "ew",
+                "exalted queen wings",
+                "exaltedqueenwings"
+            ],
+            "emoji": "Exalted"
+        },
+        "blessed_exalted_wings": {
+            "value": 22000,
+            "names": [
+                "blessed exalted cupid queens wings",
+                "blessedexaltedcupidqueenswings",
+                "blessed exalted wings",
+                "blessedexaltedwings",
+                "becqw",
+                "bew",
+                "blessed wings",
+                "blessedwings"
+            ],
+            "emoji": "Blessed"
+        },
+        "elo_hammer": {
+            "value": 1200,
+            "names": [
+                "elo hammer",
+                "elohammer",
+                "elo",
+                "eh"
+            ],
+            "emoji": "elohammer"
+        },
+        "elo_egg": {
+            "value": 350,
+            "names": [
+                "elo egg",
+                "eloegg",
+                "egg"
+            ],
+            "emoji": "eloegg"
+        },
+        "blo_hammer": {
+            "value": 1500,
+            "names": [
+                "blo crimson sledgehammer",
+                "blocrimsonsledgehammer",
+                "blo hammer",
+                "blohammer",
+                "bh",
+                "blo sledge",
+                "blosledge",
+                "sledgehammer",
+                "sledge",
+                "crimson sledge",
+                "crimsonsledge"
+            ],
+            "emoji": "blo_hammer_crimson"
+        },
+        "kumakawa_head": {
+            "value": 1400,
+            "names": [
+                "kumakawa head",
+                "kumakawahead",
+                "kuma head",
+                "kumahead",
+                "kumakawa",
+                "kuma"
+            ],
+            "emoji": "kumakawa_head"
+        },
+        "usamii_head": {
+            "value": 800,
+            "names": [
+                "usamii head",
+                "usamiihead",
+                "usamii"
+            ],
+            "emoji": "usamii_head"
+        },
+        "bunyo": {
+            "value": 13000,
+            "names": [
+                "bunyo"
+            ],
+            "emoji": "bunyo"
+        },
+        "yukio": {
+            "value": 20000,
+            "names": [
+                "yukio",
+                "bunny"
+            ],
+            "emoji": "yukiothebunny"
+        },
+        "rework_rocket_launcher": {
+            "value": 300,
+            "names": [
+                "rework rocket launcher",
+                "reworkrocketlauncher",
+                "rrl",
+                "rocket launcher",
+                "rocketlauncher",
+                "launcher"
+            ],
+            "emoji": "fireworklauncher"
+        },
+        "firework_daggers": {
+            "value": 400,
+            "names": [
+                "firework daggers",
+                "fireworkdaggers",
+                "fwd",
+                "fw daggers",
+                "fwdaggers",
+                "daggers",
+                "dagger"
+            ],
+            "emoji": "fireworkdaggers"
+        },
+        "supreme_gift_armor": {
+            "value": 100,
+            "names": [
+                "supreme gift box armor",
+                "supremegiftboxarmor",
+                "supreme armor",
+                "supremearmor",
+                "sgba",
+                "gift armor",
+                "giftarmor"
+            ],
+            "emoji": "supremegiftboxarmor"
+        },
+        "supreme_gift_helmet": {
+            "value": 100,
+            "names": [
+                "supreme gift box helmet",
+                "supremegiftboxhelmet",
+                "supreme helmet",
+                "supremehelmet",
+                "sgbh",
+                "supremehelm",
+                "gift helmet",
+                "gifthelmet"
+            ],
+            "emoji": "supremegiftboxhelmet"
+        },
+        "mega_pow": {
+            "value": 10000,
+            "names": [
+                "mega pow",
+                "megapow",
+                "mpow",
+                "mp",
+                "pow"
+            ],
+            "emoji": "mega_pow"
+        },
+        "candy_cane": {
+            "value": 140000,
+            "names": [
+                "candy cane",
+                "cc",
+                "candycane",
+                "cane stick"
+            ],
+            "emoji": "cc"
+        },
+        "santa_hat": {
+            "value": 3000,
+            "names": [
+                "santa hat",
+                "santahat",
+                "santa"
+            ],
+            "emoji": "santahat"
+        },
+        "iceborn_rapier": {
+            "value": 100,
+            "names": [
+                "iceborn rapier",
+                "icebornrapier",
+                "irapier",
+                "ice rapier",
+                "icerapier"
+            ],
+            "emoji": "iceborn_rapier"
+        },
+        "iceborn_blade": {
+            "value": 100,
+            "names": [
+                "iceborn blade",
+                "icebornblade",
+                "iblade",
+                "ib",
+                "ice blade",
+                "iceblade"
+            ],
+            "emoji": "icebornblade"
+        },
+        "iceborn_dagger": {
+            "value": 100,
+            "names": [
+                "iceborn dagger",
+                "iceborndagger",
+                "idagger",
+                "ice dagger",
+                "icedagger"
+            ],
+            "emoji": "iceborn_dagger"
+        },
+        "iceborn_gunblade": {
+            "value": 100,
+            "names": [
+                "iceborn gunblade",
+                "iceborngunblade",
+                "igunblade",
+                "igb",
+                "ice gunblade",
+                "icegunblade",
+                "gunblade"
+            ],
+            "emoji": "iceborn_gunblade"
+        },
+        "iceborn_katana": {
+            "value": 100,
+            "names": [
+                "iceborn katana",
+                "icebornkatana",
+                "ikatana",
+                "ik",
+                "ice katana",
+                "icekatana",
+                "katana"
+            ],
+            "emoji": "icebornkatana"
+        },
+        "festival_lancer": {
+            "value": 800,
+            "names": [
+                "festival lancer",
+                "festivallancer",
+                "flancer",
+                "fl",
+                "festlancer",
+                "fest lancer"
+            ],
+            "emoji": "FestivalLance"
+        },
+        "festival_shield": {
+            "value": 1000,
+            "names": [
+                "festival shield",
+                "festivalshield",
+                "fshield",
+                "festshield",
+                "fest shield",
+                "shield"
+            ],
+            "emoji": "festivalshield"
+        },
+        "stark_guns": {
+            "value": 2500,
+            "names": [
+                "stark guns",
+                "starkguns",
+                "stark",
+                "sg",
+                "guns"
+            ],
+            "emoji": "Starkguns"
+        },
+        "coyote_outfit": {
+            "value": 4500,
+            "names": [
+                "coyote outfit",
+                "coyoteoutfit",
+                "coyote fit",
+                "coyotefit",
+                "coyote"
+            ],
+            "emoji": "coyotefit"
+        },
+        "world_ender": {
+            "value": 15000,
+            "names": [
+                "world ender",
+                "worldender",
+                "wender",
+                "we",
+                "ender"
+            ],
+            "emoji": "worldender"
+        },
+        "isoh": {
+            "value": 2500,
+            "names": [
+                "inverted spear of heaven",
+                "invertedspearofheaven",
+                "isoh",
+                "spear of heaven",
+                "spearofheaven",
+                "spear",
+                "heaven spear",
+                "heavenspear"
+            ],
+            "emoji": "isoh"
+        },
+        "toji_outfit": {
+            "value": 700,
+            "names": [
+                "toji outfit",
+                "tojioutfit",
+                "toji fit",
+                "tojifit",
+                "toji"
+            ],
+            "emoji": "TojiOutfit"
+        },
+        "black_bull": {
+            "value": 600,
+            "names": [
+                "black bull",
+                "blackbull",
+                "bb",
+                "bull"
+            ],
+            "emoji": "black_bull_outfit"
+        },
+        "golden_haori": {
+            "value": 700,
+            "names": [
+                "golden haori",
+                "goldenhaori",
+                "ghaori",
+                "gold haori",
+                "goldhaori",
+                "haori"
+            ],
+            "emoji": "zoranas_haori"
+        },
+        "tentails": {
+            "value": 800,
+            "names": [
+                "tentails",
+                "tt",
+                "ten tails",
+                "tails"
+            ],
+            "emoji": "Tentails"
+        },
+        "snoozy_neko": {
+            "value": 4500,
+            "names": [
+                "snoozy neko",
+                "snoozyneko",
+                "sneko",
+                "neko",
+                "snoozy",
+                "cat"
+            ],
+            "emoji": "Snoozy_Neko"
+        },
+        "timerift_capsule": {
+            "value": 12500,
+            "names": [
+                "timerift capsule",
+                "timeriftcapsule",
+                "timerift",
+                "trc",
+                "tr",
+                "time rift",
+                "capsule",
+                "rift"
+            ],
+            "emoji": "TimeRift_Capsule"
+        },
+        "hover_pod": {
+            "value": 7000,
+            "names": [
+                "hover pod",
+                "hoverpod",
+                "hp",
+                "pod"
+            ],
+            "emoji": "hover_pod"
+        },
+        "clown_wig": {
+            "value": 1500,
+            "names": [
+                "clown wig",
+                "clownwig",
+                "clown",
+                "cw",
+                "wig"
+            ],
+            "emoji": "clown_wig"
+        },
+        "troll_face": {
+            "value": 4000,
+            "names": [
+                "troll face",
+                "trollface",
+                "troll",
+                "tf",
+                "face"
+            ],
+            "emoji": "troll_face"
+        },
+        "banana_car": {
+            "value": 1500,
+            "names": [
+                "banana car",
+                "bananacar",
+                "banana",
+                "bcar",
+                "car"
+            ],
+            "emoji": "epic_banana"
+        },
+        "qwings_blue": {
+            "value": 15000,
+            "names": [
+                "qwings blue",
+                "qwingsblue",
+                "blue qwings",
+                "blueqwings",
+                "bqw",
+                "blue wings",
+                "bluewings"
+            ],
+            "emoji": "Blue"
+        },
+        "qwings_gold": {
+            "value": 42000,
+            "names": [
+                "qwings gold",
+                "qwingsgold",
+                "gold qwings",
+                "goldqwings",
+                "golden qwings",
+                "goldenqwings",
+                "gqw",
+                "gold wings",
+                "goldwings"
+            ],
+            "emoji": "golden"
+        },
+        "ice_valk": {
+            "value": 40000,
+            "names": [
+                "icevalk",
+                "ice valk",
+                "iv",
+                "icevalkerie",
+                "ice valkyrie",
+                "icevalkyrie"
+            ],
+            "emoji": "ice_valk"
+        },
+        "violet_valk": {
+            "value": 40000,
+            "names": [
+                "violet valk",
+                "violetvalk",
+                "vv",
+                "violet valkyrie",
+                "violetvalkyrie"
+            ],
+            "emoji": "violet_valk"
+        },
+        "dominus": {
+            "value": 200000,
+            "names": [
+                "dominus",
+                "dom"
+            ],
+            "emoji": "Dominus_Empyreus"
+        },
+        "odm_rod": {
+            "value": 1800,
+            "names": [
+                "odm rod",
+                "odmrod",
+                "odm",
+                "odmr"
+            ],
+            "emoji": "ODMrod"
+        },
+        "titan_aura": {
+            "value": 55000,
+            "names": [
+                "titan aura",
+                "titanaura",
+                "titan",
+                "ta",
+                "aura"
+            ],
+            "emoji": "TitanShifterAura"
+        },
+        "anomalized_mega_pow": {
+            "value": 100000,
+            "names": [
+                "anomalized mega pow",
+                "anomalizedmegapow",
+                "anomalized pow",
+                "anomalizedpow",
+                "apow",
+                "amp",
+                "anomalized",
+                "anom pow",
+                "anompow",
+                "anom"
+            ],
+            "emoji": "anomalizedMega_pow"
+        },
+        "prestige_world_ender": {
+            "value": 390000,
+            "names": [
+                "prestige world ender",
+                "prestigeworldender",
+                "prestige wender",
+                "prestigewender",
+                "pwender",
+                "pwe",
+                "pender"
+            ],
+            "emoji": "prestigewender"
+        },
+        "prestige_bag": {
+            "value": 160000,
+            "names": [
+                "prestige bag",
+                "prestigebag",
+                "pbag",
+                "pb"
+            ],
+            "emoji": "pbag"
+        },
+        "prestige_rocket_launcher": {
+            "value": 50000,
+            "names": [
+                "prestige firework rocket launcher",
+                "prestigefireworkrocketlauncher",
+                "prestige rocket launcher",
+                "prestigerocketlauncher",
+                "pfrl",
+                "prl",
+                "prestigelauncher",
+                "plauncher",
+                "prestige launcher"
+            ],
+            "emoji": "pfrl"
+        },
+        "prestige_dagger": {
+            "value": 160000,
+            "names": [
+                "prestige firework dagger",
+                "prestigefireworkdagger",
+                "prestige dagger",
+                "prestigedagger",
+                "pfd",
+                "pdagger"
+            ],
+            "emoji": "pfd"
+        },
+        "prestige_rocket_blade": {
+            "value": 300000,
+            "names": [
+                "prestige inferno rocket blade",
+                "prestigeinfernorocketblade",
+                "prestige rocket blade",
+                "prestigerocketblade",
+                "pirb",
+                "prb",
+                "prestigeblade",
+                "pblade",
+                "prestige blade"
+            ],
+            "emoji": "PIRB"
+        },
+        "prestige_lancer": {
+            "value": 420000,
+            "names": [
+                "prestige firework lancer",
+                "prestigefireworklancer",
+                "prestige lancer",
+                "prestigelancer",
+                "pfl",
+                "plancer"
+            ],
+            "emoji": "PFL"
+        },
+        "prestige_candy_cane": {
+            "value": 750000,
+            "names": [
+                "prestige candy cane",
+                "prestigecandycane",
+                "pcc",
+                "prestigecc",
+                "prestige cc",
+                "pcane"
+            ],
+            "emoji": "PCC"
+        },
+        "iceborn_candy_cane": {
+            "value": 170000,
+            "names": [
+                "iceborn candy cane",
+                "iceborncandycane",
+                "iceborn cc",
+                "iceborncc",
+                "icc",
+                "ice cc",
+                "icecc",
+                "ice cane",
+                "icecane"
+            ],
+            "emoji": "IcebornCC"
+        },
+        "black_valk": {
+            "value": 40000,
+            "names": [
+                "black valk",
+                "blackvalk",
+                "bvalk",
+                "bv",
+                "black valkyrie",
+                "blackvalkyrie"
+            ],
+            "emoji": "black_valk"
+        },
+        "emerald_valk": {
+            "value": 40000,
+            "names": [
+                "emerald valk",
+                "emeraldvalk",
+                "evalk",
+                "ev",
+                "emerald valkyrie",
+                "emeraldvalkyrie"
+            ],
+            "emoji": "Emerald_valk"
+        },
+        "sparkle_valk": {
+            "value": 40000,
+            "names": [
+                "sparkle valk",
+                "sparklevalk",
+                "svalk",
+                "sparkle valkyrie",
+                "sparklevalkyrie",
+                "sparkle"
+            ],
+            "emoji": "sparkle_valk"
+        },
+        "blue_valk": {
+            "value": 40000,
+            "names": [
+                "blue valk",
+                "bluevalk"
+            ],
+            "emoji": "blue_valk"
+        },
+        "grinch_hat": {
+            "value": 500,
+            "names": [
+                "grinch hat",
+                "grinchhat"
+            ],
+            "emoji": "Grinch_hat"
+        },
+        "grinch_outfit": {
+            "value": 500,
+            "names": [
+                "grinch outfit",
+                "grinchoutfit",
+                "grinchfit",
+                "grinch fit",
+                "grinch"
+            ],
+            "emoji": "Grinch_outfit"
+        },
+        "elf_hat": {
+            "value": 100,
+            "names": [
+                "elf hat",
+                "elfhat"
+            ],
+            "emoji": "newElfhat"
+        },
+        "elf_outfit": {
+            "value": 100,
+            "names": [
+                "elf outfit",
+                "elfoutfit",
+                "elffit",
+                "elf fit",
+                "elf"
+            ],
+            "emoji": "Happy_elf_oitfit"
+        },
+        "nutcracker_outfit": {
+            "value": 200,
+            "names": [
+                "nutcracker outfit",
+                "nutcrackeroutfit",
+                "nutcracker fit",
+                "nutcrackerfit",
+                "nutcracker",
+                "nut"
+            ],
+            "emoji": "Nutcracker_Outfit"
+        },
+        "drippy_santa_outfit": {
+            "value": 1000,
+            "names": [
+                "drippy santa outfit",
+                "drippysantaoutfit",
+                "drippy santa fit",
+                "drippysantafit",
+                "drippy santa",
+                "drippysanta",
+                "drippy"
+            ],
+            "emoji": "Drippy_Santa_outfit"
+        },
+        "candy_cane_outfit": {
+            "value": 800,
+            "names": [
+                "candy cane outfit",
+                "candycaneoutfit",
+                "cc outfit",
+                "ccoutfit",
+                "cc fit",
+                "ccfit",
+                "cane outfit",
+                "caneoutfit",
+                "cane fit",
+                "canefit"
+            ],
+            "emoji": "Candy_Cane_outfit"
+        },
+        "napoleon": {
+            "value": 15000,
+            "names": [
+                "napoleon outfit",
+                "napoleonoutfit",
+                "napoleon fit",
+                "napoleonfit",
+                "napoleon"
+            ],
+            "emoji": "Napoleon"
+        },
+        "liok": {
+            "value": 10000,
+            "names": [
+                "liok"
+            ],
+            "emoji": "PCC"
+        }
     }
 }
