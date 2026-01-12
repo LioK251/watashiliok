@@ -106,7 +106,7 @@
             "emoji": "Pika"
         },
         "ope": {
-            "value": 3000,
+            "value": 2500,
             "names": [
                 "ope"
             ],
@@ -152,14 +152,14 @@
             "emoji": "Mochi"
         },
         "soul": {
-            "value": 7500,
+            "value": 6500,
             "names": [
                 "soul"
             ],
             "emoji": "Soul"
         },
         "dragon": {
-            "value": 25000,
+            "value": 24000,
             "names": [
                 "dragon",
                 "drag"
@@ -1178,7 +1178,7 @@
             "emoji": "hollowhallberd"
         },
         "resurrected_baal_head": {
-            "value": 1800,
+            "value": 2500,
             "names": [
                 "resurrected baal head",
                 "resurrectedbaalhead",
@@ -1645,6 +1645,15 @@
             ],
             "emoji": "supremegiftboxhelmet"
         },
+        "rocky_pet": {
+            "value": 100,
+            "names": [
+                "rocky pet",
+                "rockypet",
+                "rocky"
+            ],
+            "emoji": "supremegiftboxhelmet"
+        },
         "mega_pow": {
             "value": 10000,
             "names": [
@@ -1657,7 +1666,7 @@
             "emoji": "mega_pow"
         },
         "candy_cane": {
-            "value": 140000,
+            "value": 135000,
             "names": [
                 "candy cane",
                 "cc",
@@ -1884,7 +1893,7 @@
             "emoji": "BigMom"
         },
         "snoozy_neko": {
-            "value": 3000,
+            "value": 2800,
             "names": [
                 "snoozy neko",
                 "snoozyneko",
