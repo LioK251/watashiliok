@@ -159,7 +159,7 @@
             "emoji": "Soul"
         },
         "dragon": {
-            "value": 24000,
+            "value": 20000,
             "names": [
                 "dragon",
                 "drag"
@@ -1178,7 +1178,7 @@
             "emoji": "hollowhallberd"
         },
         "resurrected_baal_head": {
-            "value": 2500,
+            "value": 3000,
             "names": [
                 "resurrected baal head",
                 "resurrectedbaalhead",
@@ -1508,7 +1508,7 @@
             "emoji": "Exalted"
         },
         "blessed_exalted_wings": {
-            "value": 22000,
+            "value": 23000,
             "names": [
                 "blessed exalted cupid queens wings",
                 "blessedexaltedcupidqueenswings",
@@ -1893,7 +1893,7 @@
             "emoji": "BigMom"
         },
         "snoozy_neko": {
-            "value": 2800,
+            "value": 2500,
             "names": [
                 "snoozy neko",
                 "snoozyneko",
@@ -2058,7 +2058,7 @@
             "emoji": "anomalizedMega_pow"
         },
         "prestige_world_ender": {
-            "value": 370000,
+            "value": 360000,
             "names": [
                 "prestige world ender",
                 "prestigeworldender",
@@ -2123,7 +2123,7 @@
             "emoji": "PIRB"
         },
         "prestige_lancer": {
-            "value": 420000,
+            "value": 430000,
             "names": [
                 "prestige firework lancer",
                 "prestigefireworklancer",
