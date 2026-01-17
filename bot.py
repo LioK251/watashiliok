@@ -102,7 +102,7 @@ ALLOWED_CHANNELS = ["1458157088181325944", "1458157141247528980", "1458157186617
 
 def parse_items(item_string):
     items = []
-    parts = [p.strip() for p in item_string.split(",")]
+    parts = [p.strip() for p in re.split(r'\s*,\s*|\s+and\s+', item_string, flags=re.IGNORECASE)]
     
     for part in parts:
         part = part.strip().lower()
