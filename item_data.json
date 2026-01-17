@@ -22,7 +22,7 @@
             "emoji": "kage"
         },
         "gura": {
-            "value": 600,
+            "value": 200,
             "names": [
                 "gura"
             ],
@@ -106,7 +106,7 @@
             "emoji": "Pika"
         },
         "ope": {
-            "value": 2500,
+            "value": 2100,
             "names": [
                 "ope"
             ],
@@ -201,7 +201,7 @@
             "emoji": "mythicalchest"
         },
         "all_seeing_eye": {
-            "value": 32000,
+            "value": 33000,
             "names": [
                 "all seeing eye",
                 "ase",
@@ -222,7 +222,7 @@
             "emoji": "Chroma_AllSeeingEye"
         },
         "blo_ase": {
-            "value": 41000,
+            "value": 42000,
             "names": [
                 "blo ase",
                 "bloase",
@@ -231,7 +231,7 @@
             "emoji": "blo_ase"
         },
         "holly_ase": {
-            "value": 34000,
+            "value": 35000,
             "names": [
                 "holly ase",
                 "hase",
@@ -240,7 +240,7 @@
             "emoji": "hollyase"
         },
         "all_seeing_baal": {
-            "value": 36000,
+            "value": 37000,
             "names": [
                 "all seeing baal",
                 "asb",
@@ -596,7 +596,7 @@
             "emoji": "soulkingviolin"
         },
         "soul_king_guitar": {
-            "value": 1800,
+            "value": 1400,
             "names": [
                 "soul king guitar",
                 "soulkingguitar",
@@ -786,7 +786,7 @@
             "emoji": "ryumascarf"
         },
         "tomoe_drums": {
-            "value": 300,
+            "value": 600,
             "names": [
                 "tomoes drums",
                 "tomoesdrums",
@@ -1010,7 +1010,7 @@
             "emoji": "FruitFishingRod"
         },
         "sunken_helmet": {
-            "value": 150,
+            "value": 500,
             "names": [
                 "sunken helmet",
                 "sunkenhelmet",
