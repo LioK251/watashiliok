@@ -1005,7 +1005,8 @@
                 "fr",
                 "rod",
                 "fishing rod",
-                "fishingrod"
+                "fishingrod",
+                "df rod"
             ],
             "emoji": "FruitFishingRod"
         },
@@ -1253,7 +1254,8 @@
                 "nightfallshroud",
                 "nshroud",
                 "ns",
-                "nightfall"
+                "nightfall",
+                "nfs"
             ],
             "emoji": "nightfallshroud"
         },
@@ -2037,7 +2039,8 @@
                 "titanaura",
                 "titan",
                 "ta",
-                "aura"
+                "aura",
+                "titan shifter aura"
             ],
             "emoji": "TitanShifterAura"
         },
