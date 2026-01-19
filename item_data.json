@@ -152,7 +152,7 @@
             "emoji": "Mochi"
         },
         "soul": {
-            "value": 6500,
+            "value": 5500,
             "names": [
                 "soul"
             ],
@@ -210,7 +210,7 @@
             "emoji": "AllSeeingEye"
         },
         "chromatic_ase": {
-            "value": 120000,
+            "value": 123000,
             "names": [
                 "chromatic all seeing eye",
                 "chroma ase",
@@ -358,7 +358,7 @@
             "emoji": "karoo"
         },
         "soul_cleaver": {
-            "value": 14000,
+            "value": 13500,
             "names": [
                 "soul cleaver",
                 "soulcleaver",
@@ -1668,7 +1668,7 @@
             "emoji": "mega_pow"
         },
         "candy_cane": {
-            "value": 135000,
+            "value": 133000,
             "names": [
                 "candy cane",
                 "cc",
@@ -1793,7 +1793,7 @@
             "emoji": "coyotefit"
         },
         "world_ender": {
-            "value": 15000,
+            "value": 14000,
             "names": [
                 "world ender",
                 "worldender",
@@ -2033,7 +2033,7 @@
             "emoji": "ODMrod"
         },
         "titan_aura": {
-            "value": 55000,
+            "value": 48000,
             "names": [
                 "titan aura",
                 "titanaura",
@@ -2061,7 +2061,7 @@
             "emoji": "anomalizedMega_pow"
         },
         "prestige_world_ender": {
-            "value": 360000,
+            "value": 350000,
             "names": [
                 "prestige world ender",
                 "prestigeworldender",
