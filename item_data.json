@@ -87,7 +87,8 @@
         "gold": {
             "value": 100,
             "names": [
-                "gold"
+                "gold",
+                "goru"
             ],
             "emoji": "gold"
         },
