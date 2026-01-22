@@ -122,7 +122,7 @@
             "emoji": "Tori"
         },
         "buddha": {
-            "value": 1200,
+            "value": 1000,
             "names": [
                 "buddha",
                 "bud"
@@ -153,7 +153,7 @@
             "emoji": "Mochi"
         },
         "soul": {
-            "value": 5500,
+            "value": 5400,
             "names": [
                 "soul"
             ],
@@ -184,7 +184,7 @@
             "emoji": "RareChest"
         },
         "legendary_chest": {
-            "value": 600,
+            "value": 700,
             "names": [
                 "legendary chest",
                 "lc",
@@ -193,7 +193,7 @@
             "emoji": "LegChest"
         },
         "mythical_chest": {
-            "value": 9000,
+            "value": 8200,
             "names": [
                 "mythical chest",
                 "mc",
@@ -545,7 +545,7 @@
             "emoji": "ace"
         },
         "yoru": {
-            "value": 4200,
+            "value": 4500,
             "names": [
                 "yoru",
                 "darkblade",
@@ -555,7 +555,7 @@
             "emoji": "darkblade"
         },
         "kikoku": {
-            "value": 9000,
+            "value": 8000,
             "names": [
                 "kikoku",
                 "koku",
@@ -1511,7 +1511,7 @@
             "emoji": "Exalted"
         },
         "blessed_exalted_wings": {
-            "value": 23000,
+            "value": 38000,
             "names": [
                 "blessed exalted cupid queens wings",
                 "blessedexaltedcupidqueenswings",
@@ -1669,7 +1669,7 @@
             "emoji": "mega_pow"
         },
         "candy_cane": {
-            "value": 133000,
+            "value": 125000,
             "names": [
                 "candy cane",
                 "cc",
@@ -2005,7 +2005,7 @@
             "emoji": "ice_valk"
         },
         "violet_valk": {
-            "value": 40000,
+            "value": 42000,
             "names": [
                 "violet valk",
                 "violetvalk",
@@ -2062,7 +2062,7 @@
             "emoji": "anomalizedMega_pow"
         },
         "prestige_world_ender": {
-            "value": 350000,
+            "value": 340000,
             "names": [
                 "prestige world ender",
                 "prestigeworldender",
