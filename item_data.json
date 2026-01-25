@@ -160,7 +160,7 @@
             "emoji": "Soul"
         },
         "dragon": {
-            "value": 20000,
+            "value": 17000,
             "names": [
                 "dragon",
                 "drag"
@@ -193,7 +193,7 @@
             "emoji": "LegChest"
         },
         "mythical_chest": {
-            "value": 8200,
+            "value": 7500,
             "names": [
                 "mythical chest",
                 "mc",
@@ -1488,7 +1488,7 @@
             "emoji": "scarf"
         },
         "blessed_scarf": {
-            "value": 2750,
+            "value": 5000,
             "names": [
                 "blessed scarf",
                 "blessedscarf",
@@ -1511,7 +1511,7 @@
             "emoji": "Exalted"
         },
         "blessed_exalted_wings": {
-            "value": 38000,
+            "value": 60000,
             "names": [
                 "blessed exalted cupid queens wings",
                 "blessedexaltedcupidqueenswings",
@@ -1582,14 +1582,14 @@
             "emoji": "usamii_head"
         },
         "bunyo": {
-            "value": 13000,
+            "value": 15000,
             "names": [
                 "bunyo"
             ],
             "emoji": "bunyo"
         },
         "yukio": {
-            "value": 20000,
+            "value": 22000,
             "names": [
                 "yukio",
                 "bunny"
@@ -1669,7 +1669,7 @@
             "emoji": "mega_pow"
         },
         "candy_cane": {
-            "value": 125000,
+            "value": 120000,
             "names": [
                 "candy cane",
                 "cc",
@@ -2034,7 +2034,7 @@
             "emoji": "ODMrod"
         },
         "titan_aura": {
-            "value": 48000,
+            "value": 46000,
             "names": [
                 "titan aura",
                 "titanaura",
@@ -2062,7 +2062,7 @@
             "emoji": "anomalizedMega_pow"
         },
         "prestige_world_ender": {
-            "value": 340000,
+            "value": 330000,
             "names": [
                 "prestige world ender",
                 "prestigeworldender",
@@ -2151,7 +2151,7 @@
             "emoji": "PCC"
         },
         "iceborn_candy_cane": {
-            "value": 210000,
+            "value": 220000,
             "names": [
                 "iceborn candy cane",
                 "iceborncandycane",
