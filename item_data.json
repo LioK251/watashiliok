@@ -211,7 +211,7 @@
             "emoji": "AllSeeingEye"
         },
         "chromatic_ase": {
-            "value": 123000,
+            "value": 125000,
             "names": [
                 "chromatic all seeing eye",
                 "chroma ase",
@@ -538,7 +538,7 @@
             "emoji": "flower_sword"
         },
         "ace": {
-            "value": 1000,
+            "value": 900,
             "names": [
                 "ace"
             ],
@@ -555,7 +555,7 @@
             "emoji": "darkblade"
         },
         "kikoku": {
-            "value": 7200,
+            "value": 7000,
             "names": [
                 "kikoku",
                 "koku",
@@ -973,7 +973,7 @@
             "emoji": "Megalodon_Helmet"
         },
         "megalodon_armor": {
-            "value": 150,
+            "value": 400,
             "names": [
                 "megalodon armor",
                 "megalodonarmor",
@@ -1085,7 +1085,7 @@
             "emoji": "Fishbait"
         },
         "baal_head": {
-            "value": 1500,
+            "value": 800,
             "names": [
                 "baal head",
                 "baalhead"
@@ -1180,7 +1180,7 @@
             "emoji": "hollowhallberd"
         },
         "resurrected_baal_head": {
-            "value": 3000,
+            "value": 3300,
             "names": [
                 "resurrected baal head",
                 "resurrectedbaalhead",
@@ -1229,7 +1229,7 @@
             "emoji": "halfshroud"
         },
         "hollow_wender": {
-            "value": 3200,
+            "value": 3000,
             "names": [
                 "hollow wender",
                 "hollowwender",
@@ -1589,7 +1589,7 @@
             "emoji": "bunyo"
         },
         "yukio": {
-            "value": 22000,
+            "value": 24000,
             "names": [
                 "yukio",
                 "bunny"
@@ -1794,7 +1794,7 @@
             "emoji": "coyotefit"
         },
         "world_ender": {
-            "value": 14000,
+            "value": 13000,
             "names": [
                 "world ender",
                 "worldender",
@@ -1805,7 +1805,7 @@
             "emoji": "worldender"
         },
         "isoh": {
-            "value": 2500,
+            "value": 3200,
             "names": [
                 "inverted spear of heaven",
                 "invertedspearofheaven",
@@ -1922,7 +1922,7 @@
             "emoji": "TimeRift_Capsule"
         },
         "hover_pod": {
-            "value": 5500,
+            "value": 8000,
             "names": [
                 "hover pod",
                 "hoverpod",
@@ -2062,7 +2062,7 @@
             "emoji": "anomalizedMega_pow"
         },
         "prestige_world_ender": {
-            "value": 330000,
+            "value": 320000,
             "names": [
                 "prestige world ender",
                 "prestigeworldender",
@@ -2151,7 +2151,7 @@
             "emoji": "PCC"
         },
         "iceborn_candy_cane": {
-            "value": 220000,
+            "value": 230000,
             "names": [
                 "iceborn candy cane",
                 "iceborncandycane",
