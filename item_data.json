@@ -153,7 +153,7 @@
             "emoji": "Mochi"
         },
         "soul": {
-            "value": 5400,
+            "value": 5200,
             "names": [
                 "soul"
             ],
@@ -223,7 +223,7 @@
             "emoji": "Chroma_AllSeeingEye"
         },
         "blo_ase": {
-            "value": 42000,
+            "value": 45000,
             "names": [
                 "blo ase",
                 "bloase",
@@ -232,7 +232,7 @@
             "emoji": "blo_ase"
         },
         "holly_ase": {
-            "value": 35000,
+            "value": 37000,
             "names": [
                 "holly ase",
                 "hase",
@@ -241,7 +241,7 @@
             "emoji": "hollyase"
         },
         "all_seeing_baal": {
-            "value": 37000,
+            "value": 40000,
             "names": [
                 "all seeing baal",
                 "asb",
@@ -545,7 +545,7 @@
             "emoji": "ace"
         },
         "yoru": {
-            "value": 4500,
+            "value": 5500,
             "names": [
                 "yoru",
                 "darkblade",
@@ -973,7 +973,7 @@
             "emoji": "Megalodon_Helmet"
         },
         "megalodon_armor": {
-            "value": 400,
+            "value": 150,
             "names": [
                 "megalodon armor",
                 "megalodonarmor",
@@ -997,7 +997,7 @@
             "emoji": "Megalodon_Helmet"
         },
         "fruit_rod": {
-            "value": 24000,
+            "value": 22000,
             "names": [
                 "fruit rod",
                 "fruitrod",
@@ -1085,7 +1085,7 @@
             "emoji": "Fishbait"
         },
         "baal_head": {
-            "value": 800,
+            "value": 1500,
             "names": [
                 "baal head",
                 "baalhead"
@@ -1488,7 +1488,7 @@
             "emoji": "scarf"
         },
         "blessed_scarf": {
-            "value": 5000,
+            "value": 7500,
             "names": [
                 "blessed scarf",
                 "blessedscarf",
@@ -1511,7 +1511,7 @@
             "emoji": "Exalted"
         },
         "blessed_exalted_wings": {
-            "value": 60000,
+            "value": 55000,
             "names": [
                 "blessed exalted cupid queens wings",
                 "blessedexaltedcupidqueenswings",
@@ -1582,14 +1582,14 @@
             "emoji": "usamii_head"
         },
         "bunyo": {
-            "value": 15000,
+            "value": 18000,
             "names": [
                 "bunyo"
             ],
             "emoji": "bunyo"
         },
         "yukio": {
-            "value": 24000,
+            "value": 25000,
             "names": [
                 "yukio",
                 "bunny"
@@ -1658,7 +1658,7 @@
             "emoji": "supremegiftboxhelmet"
         },
         "mega_pow": {
-            "value": 10000,
+            "value": 9000,
             "names": [
                 "mega pow",
                 "megapow",
@@ -1683,7 +1683,9 @@
             "names": [
                 "santa hat",
                 "santahat",
-                "santa"
+                "santa",
+                "santa hat og",
+                "santa hat (og)"
             ],
             "emoji": "santahat"
         },
@@ -1805,7 +1807,7 @@
             "emoji": "worldender"
         },
         "isoh": {
-            "value": 3200,
+            "value": 4000,
             "names": [
                 "inverted spear of heaven",
                 "invertedspearofheaven",
@@ -2034,7 +2036,7 @@
             "emoji": "ODMrod"
         },
         "titan_aura": {
-            "value": 46000,
+            "value": 45000,
             "names": [
                 "titan aura",
                 "titanaura",
@@ -2075,7 +2077,7 @@
             "emoji": "prestigewender"
         },
         "prestige_bag": {
-            "value": 160000,
+            "value": 165000,
             "names": [
                 "prestige bag",
                 "prestigebag",
@@ -2100,7 +2102,7 @@
             "emoji": "pfrl"
         },
         "prestige_dagger": {
-            "value": 160000,
+            "value": 145000,
             "names": [
                 "prestige firework dagger",
                 "prestigefireworkdagger",
@@ -2151,7 +2153,7 @@
             "emoji": "PCC"
         },
         "iceborn_candy_cane": {
-            "value": 230000,
+            "value": 220000,
             "names": [
                 "iceborn candy cane",
                 "iceborncandycane",
