@@ -122,7 +122,7 @@
             "emoji": "Tori"
         },
         "buddha": {
-            "value": 1000,
+            "value": 500,
             "names": [
                 "buddha",
                 "bud"
@@ -130,7 +130,7 @@
             "emoji": "Buddha"
         },
         "ptero": {
-            "value": 4500,
+            "value": 4000,
             "names": [
                 "ptero",
                 "pteranodon"
@@ -153,14 +153,14 @@
             "emoji": "Mochi"
         },
         "soul": {
-            "value": 5000,
+            "value": 4000,
             "names": [
                 "soul"
             ],
             "emoji": "Soul"
         },
         "dragon": {
-            "value": 17000,
+            "value": 16000,
             "names": [
                 "dragon",
                 "drag"
@@ -193,7 +193,7 @@
             "emoji": "LegChest"
         },
         "mythical_chest": {
-            "value": 7000,
+            "value": 6500,
             "names": [
                 "mythical chest",
                 "mc",
@@ -223,7 +223,7 @@
             "emoji": "Chroma_AllSeeingEye"
         },
         "blo_ase": {
-            "value": 60000,
+            "value": 62000,
             "names": [
                 "blo ase",
                 "bloase",
@@ -241,7 +241,7 @@
             "emoji": "hollyase"
         },
         "all_seeing_baal": {
-            "value": 49000,
+            "value": 50000,
             "names": [
                 "all seeing baal",
                 "asb",
@@ -1180,7 +1180,7 @@
             "emoji": "hollowhallberd"
         },
         "resurrected_baal_head": {
-            "value": 5000,
+            "value": 5500,
             "names": [
                 "resurrected baal head",
                 "resurrectedbaalhead",
@@ -1583,14 +1583,14 @@
             "emoji": "usamii_head"
         },
         "bunyo": {
-            "value": 22000,
+            "value": 26000,
             "names": [
                 "bunyo"
             ],
             "emoji": "bunyo"
         },
         "yukio": {
-            "value": 30000,
+            "value": 32000,
             "names": [
                 "yukio",
                 "bunny"
@@ -1659,7 +1659,7 @@
             "emoji": "supremegiftboxhelmet"
         },
         "mega_pow": {
-            "value": 6500,
+            "value": 4000,
             "names": [
                 "mega pow",
                 "megapow",
@@ -1670,7 +1670,7 @@
             "emoji": "mega_pow"
         },
         "candy_cane": {
-            "value": 132000,
+            "value": 145000,
             "names": [
                 "candy cane",
                 "cc",
@@ -1808,7 +1808,7 @@
             "emoji": "worldender"
         },
         "isoh": {
-            "value": 4000,
+            "value": 5000,
             "names": [
                 "inverted spear of heaven",
                 "invertedspearofheaven",
@@ -2065,7 +2065,7 @@
             "emoji": "anomalizedMega_pow"
         },
         "prestige_world_ender": {
-            "value": 320000,
+            "value": 380000,
             "names": [
                 "prestige world ender",
                 "prestigeworldender",
@@ -2078,7 +2078,7 @@
             "emoji": "prestigewender"
         },
         "prestige_bag": {
-            "value": 170000,
+            "value": 195000,
             "names": [
                 "prestige bag",
                 "prestigebag",
@@ -2115,7 +2115,7 @@
             "emoji": "pfd"
         },
         "prestige_rocket_blade": {
-            "value": 300000,
+            "value": 350000,
             "names": [
                 "prestige inferno rocket blade",
                 "prestigeinfernorocketblade",
@@ -2130,7 +2130,7 @@
             "emoji": "PIRB"
         },
         "prestige_lancer": {
-            "value": 430000,
+            "value": 490000,
             "names": [
                 "prestige firework lancer",
                 "prestigefireworklancer",
@@ -2142,7 +2142,7 @@
             "emoji": "PFL"
         },
         "prestige_candy_cane": {
-            "value": 750000,
+            "value": 870000,
             "names": [
                 "prestige candy cane",
                 "prestigecandycane",
