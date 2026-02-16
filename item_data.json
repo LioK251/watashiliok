@@ -1,70 +1,70 @@
 {
     "items": {
         "ito": {
-            "value": 80,
+            "value": 40,
             "names": [
                 "ito"
             ],
             "emoji": "Ito"
         },
         "paw": {
-            "value": 200,
+            "value": 100,
             "names": [
                 "paw"
             ],
             "emoji": "Paw"
         },
         "kage": {
-            "value": 50,
+            "value": 40,
             "names": [
                 "kage"
             ],
             "emoji": "kage"
         },
         "gura": {
-            "value": 200,
+            "value": 100,
             "names": [
                 "gura"
             ],
             "emoji": "Gura"
         },
         "goro": {
-            "value": 100,
+            "value": 300,
             "names": [
                 "goro"
             ],
             "emoji": "Goro"
         },
         "yami": {
-            "value": 50,
+            "value": 40,
             "names": [
                 "yami"
             ],
             "emoji": "yami"
         },
         "zushi": {
-            "value": 150,
+            "value": 75,
             "names": [
                 "zushi"
             ],
             "emoji": "Zushi"
         },
         "hie": {
-            "value": 150,
+            "value": 75,
             "names": [
                 "hie"
             ],
             "emoji": "Hie"
         },
         "suna": {
-            "value": 400,
+            "value": 200,
             "names": [
                 "suna"
             ],
             "emoji": "Suna"
         },
         "yuki": {
-            "value": 100,
+            "value": 50,
             "names": [
                 "yuki"
             ],
@@ -78,14 +78,14 @@
             "emoji": "Mera"
         },
         "magu": {
-            "value": 400,
+            "value": 200,
             "names": [
                 "magu"
             ],
             "emoji": "Magu"
         },
         "gold": {
-            "value": 100,
+            "value": 50,
             "names": [
                 "gold",
                 "goru"
@@ -93,28 +93,28 @@
             "emoji": "gold"
         },
         "smoke": {
-            "value": 100,
+            "value": 50,
             "names": [
                 "smoke"
             ],
             "emoji": "smoke"
         },
         "pika": {
-            "value": 1400,
+            "value": 700,
             "names": [
                 "pika"
             ],
             "emoji": "Pika"
         },
         "ope": {
-            "value": 2000,
+            "value": 800,
             "names": [
                 "ope"
             ],
             "emoji": "opeope"
         },
         "tori": {
-            "value": 3000,
+            "value": 2400,
             "names": [
                 "tori",
                 "phoenix"
@@ -122,7 +122,7 @@
             "emoji": "Tori"
         },
         "buddha": {
-            "value": 500,
+            "value": 400,
             "names": [
                 "buddha",
                 "bud"
@@ -130,7 +130,7 @@
             "emoji": "Buddha"
         },
         "ptero": {
-            "value": 4000,
+            "value": 3000,
             "names": [
                 "ptero",
                 "pteranodon"
@@ -138,7 +138,7 @@
             "emoji": "Ptero"
         },
         "venom": {
-            "value": 4200,
+            "value": 3200,
             "names": [
                 "venom",
                 "ven"
@@ -146,21 +146,21 @@
             "emoji": "venom"
         },
         "mochi": {
-            "value": 5400,
+            "value": 4000,
             "names": [
                 "mochi"
             ],
             "emoji": "Mochi"
         },
         "soul": {
-            "value": 4000,
+            "value": 3000,
             "names": [
                 "soul"
             ],
             "emoji": "Soul"
         },
         "dragon": {
-            "value": 16000,
+            "value": 12000,
             "names": [
                 "dragon",
                 "drag"
@@ -176,7 +176,7 @@
             "emoji": "SpecialTailorToken"
         },
         "rare_chest": {
-            "value": 80,
+            "value": 50,
             "names": [
                 "rare chest",
                 "rc"
@@ -184,7 +184,7 @@
             "emoji": "RareChest"
         },
         "legendary_chest": {
-            "value": 700,
+            "value": 400,
             "names": [
                 "legendary chest",
                 "lc",
@@ -193,7 +193,7 @@
             "emoji": "LegChest"
         },
         "mythical_chest": {
-            "value": 6500,
+            "value": 5000,
             "names": [
                 "mythical chest",
                 "mc",
@@ -211,7 +211,7 @@
             "emoji": "AllSeeingEye"
         },
         "chromatic_ase": {
-            "value": 135000,
+            "value": 155000,
             "names": [
                 "chromatic all seeing eye",
                 "chroma ase",
@@ -221,6 +221,15 @@
                 "chromatic ase"
             ],
             "emoji": "Chroma_AllSeeingEye"
+        },
+        "cupid_ase": {
+            "value": 48000,
+            "names": [
+                "cupid ase",
+                "cupidase",
+                "cupid all seeing eye"
+            ],
+            "emoji": "cupid"
         },
         "blo_ase": {
             "value": 62000,
@@ -232,7 +241,7 @@
             "emoji": "blo_ase"
         },
         "holly_ase": {
-            "value": 42000,
+            "value": 45000,
             "names": [
                 "holly ase",
                 "hase",
@@ -359,7 +368,7 @@
             "emoji": "karoo"
         },
         "soul_cleaver": {
-            "value": 13500,
+            "value": 13000,
             "names": [
                 "soul cleaver",
                 "soulcleaver",
@@ -528,7 +537,7 @@
             "emoji": "Vraels_pipe"
         },
         "flower_sword": {
-            "value": 1400,
+            "value": 5000,
             "names": [
                 "flower sword",
                 "flowersword",
@@ -538,14 +547,14 @@
             "emoji": "flower_sword"
         },
         "ace": {
-            "value": 900,
+            "value": 1000,
             "names": [
                 "ace"
             ],
             "emoji": "ace"
         },
         "yoru": {
-            "value": 6000,
+            "value": 4700,
             "names": [
                 "yoru",
                 "darkblade",
@@ -642,7 +651,7 @@
             "emoji": "soulking"
         },
         "soul_king_scarf": {
-            "value": 28000,
+            "value": 32000,
             "names": [
                 "soul king scarf",
                 "soulkingscarf",
@@ -1069,7 +1078,7 @@
             "emoji": "swordfishrapier"
         },
         "legendary_fish_bait": {
-            "value": 3500,
+            "value": 2000,
             "names": [
                 "legendary fish bait",
                 "legendaryfishbait",
@@ -1250,7 +1259,7 @@
             "emoji": "bloodscythe"
         },
         "nightfall_shroud": {
-            "value": 5200,
+            "value": 7000,
             "names": [
                 "nightfall shroud",
                 "nightfallshroud",
@@ -1295,7 +1304,7 @@
             "emoji": "wings"
         },
         "flowers": {
-            "value": 13000,
+            "value": 14000,
             "names": [
                 "flowers",
                 "flower"
@@ -1415,7 +1424,7 @@
             "emoji": "bow"
         },
         "blessed_cupid_bow": {
-            "value": 2500,
+            "value": 5000,
             "names": [
                 "blessed cupid bow",
                 "blessedcupidbow",
@@ -1440,7 +1449,7 @@
             "emoji": "Exalted"
         },
         "blessed_exalted_outfit": {
-            "value": 2000,
+            "value": 5000,
             "names": [
                 "blessed exalted cupid queen outfit",
                 "blessedexaltedcupidqueenoutfit",
@@ -1498,7 +1507,7 @@
             "emoji": "scarf"
         },
         "exalted_wings": {
-            "value": 4000,
+            "value": 7000,
             "names": [
                 "exalted cupid queens wings",
                 "exaltedcupidqueenswings",
@@ -1574,7 +1583,7 @@
             "emoji": "kumakawa_head"
         },
         "usamii_head": {
-            "value": 800,
+            "value": 1400,
             "names": [
                 "usamii head",
                 "usamiihead",
@@ -1786,7 +1795,7 @@
             "emoji": "Starkguns"
         },
         "coyote_outfit": {
-            "value": 4500,
+            "value": 7000,
             "names": [
                 "coyote outfit",
                 "coyoteoutfit",
@@ -1808,7 +1817,7 @@
             "emoji": "worldender"
         },
         "isoh": {
-            "value": 5000,
+            "value": 7000,
             "names": [
                 "inverted spear of heaven",
                 "invertedspearofheaven",
@@ -2026,6 +2035,17 @@
             ],
             "emoji": "Dominus_Empyreus"
         },
+        "dominus_ultimus": {
+            "value": 90000,
+            "names": [
+                "dominus ultimus",
+                "dominusultimus",
+                "dom ultimus",
+                "domultimus",
+                "du"
+            ],
+            "emoji": "Dominus_Empyreus"
+        },
         "odm_rod": {
             "value": 1800,
             "names": [
@@ -2037,7 +2057,7 @@
             "emoji": "ODMrod"
         },
         "titan_aura": {
-            "value": 45000,
+            "value": 42000,
             "names": [
                 "titan aura",
                 "titanaura",
@@ -2065,7 +2085,7 @@
             "emoji": "anomalizedMega_pow"
         },
         "prestige_world_ender": {
-            "value": 380000,
+            "value": 420000,
             "names": [
                 "prestige world ender",
                 "prestigeworldender",
@@ -2078,7 +2098,7 @@
             "emoji": "prestigewender"
         },
         "prestige_bag": {
-            "value": 195000,
+            "value": 215000,
             "names": [
                 "prestige bag",
                 "prestigebag",
@@ -2115,7 +2135,7 @@
             "emoji": "pfd"
         },
         "prestige_rocket_blade": {
-            "value": 350000,
+            "value": 380000,
             "names": [
                 "prestige inferno rocket blade",
                 "prestigeinfernorocketblade",
@@ -2130,7 +2150,7 @@
             "emoji": "PIRB"
         },
         "prestige_lancer": {
-            "value": 490000,
+            "value": 520000,
             "names": [
                 "prestige firework lancer",
                 "prestigefireworklancer",
@@ -2142,7 +2162,7 @@
             "emoji": "PFL"
         },
         "prestige_candy_cane": {
-            "value": 870000,
+            "value": 950000,
             "names": [
                 "prestige candy cane",
                 "prestigecandycane",
@@ -2154,7 +2174,7 @@
             "emoji": "PCC"
         },
         "iceborn_candy_cane": {
-            "value": 190000,
+            "value": 195000,
             "names": [
                 "iceborn candy cane",
                 "iceborncandycane",
